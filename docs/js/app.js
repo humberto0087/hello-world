@@ -1,4 +1,4 @@
-import { fixAndFlip, construction, dscr } from './finance.js';
+import { fixAndFlip, construction, dscr, buildToOwn } from './finance.js';
 
 const CFG = window.DEAL_DESK_CONFIG || {};
 const CATS = {
@@ -30,10 +30,15 @@ const allDeals = () => [...myDeals.map((d) => ({ ...d, mine: true })), ...feed.d
 const dealById = (id) => allDeals().find((d) => d.id === id) || pipeline[id]?.snapshot;
 const mapsUrl = (d) => (d.lat && d.lng ? `https://www.google.com/maps?q=${d.lat},${d.lng}` : d.address ? `https://www.google.com/maps/search/${encodeURIComponent(d.address)}` : null);
 const dealValue = (d) => d.price ?? d.valuation ?? null;
+export const isLot = (d) => d.kind !== 'project' && (/land|lot/i.test(d.propertyType || '') || /\b(buildable lot|vacant lot|vacant land|tear[- ]?down|scrape)\b/i.test(`${d.title} ${d.description || ''}`));
+const BUILDER_GOAL = /dream home|adu|house hack|development/i;
 
 // ---------- matching ----------
 export function buyerMatches(b, d) {
-  if (b.cats?.length && !b.cats.some((c) => d.categories.includes(c))) return false;
+  const catOk = !b.cats?.length || b.cats.some((c) => d.categories.includes(c));
+  const lotOk = BUILDER_GOAL.test(b.goal || '') && isLot(d);
+  if (!catOk && !lotOk) return false;
+  if (!b.cats?.length && BUILDER_GOAL.test(b.goal || '') && !lotOk) return false;
   const v = d.price;
   if (v && b.minPrice && v < b.minPrice) return false;
   if (v && b.maxPrice && v > b.maxPrice) return false;
@@ -80,7 +85,7 @@ function filteredDeals() {
     if (!f.showInactive && d.active === false) return false;
     if (f.newOnly && !d.isNew && !d.mine) return false;
     if (activeCats.size && !d.categories.some((c) => activeCats.has(c))) return false;
-    if (f.kind && d.kind !== f.kind) return false;
+    if (f.kind === 'lot' ? !isLot(d) : f.kind && d.kind !== f.kind) return false;
     const v = dealValue(d);
     if (f.minPrice && (v ?? 0) < +f.minPrice) return false;
     if (f.maxPrice && v && v > +f.maxPrice) return false;
@@ -135,7 +140,7 @@ function renderDeals() {
         ${d.approvalType ? `<span>${esc(d.approvalType)}</span>` : ''}
         ${d.issuedDate ? `<span>Issued ${fmtDate(d.issuedDate)}</span>` : ''}
         <span>${esc(d.sourceLabel || d.source)}</span>
-        ${matches ? `<span class="good">${matches} buyer match${matches > 1 ? 'es' : ''}</span>` : ''}
+        ${matches ? `<span class="good">${matches} client match${matches > 1 ? 'es' : ''}</span>` : ''}
       </div>
     </article>`;
   }).join('');
@@ -143,6 +148,7 @@ function renderDeals() {
 
 // ---------- deal detail + analyzer ----------
 function defaultTab(d) {
+  if (isLot(d)) return 'build';
   if (d.categories.includes('new_construction')) return 'construction';
   if (d.categories.includes('multifamily')) return 'dscr';
   return 'flip';
@@ -171,6 +177,20 @@ function analyzerForm(tab, d) {
     return [field('land', 'Land / acquisition', land), field('hard', 'Hard costs', hard), field('soft', 'Soft costs (arch, permits, fees)', Math.round(hard * 0.15)),
       field('completedValue', 'Completed value', Math.round((land + hard * 1.15) * 1.25)), field('ltcPct', 'Max LTC %', x.ltcPct), field('maxLtvPct', 'Max LTV (as-complete) %', x.maxLtvPct),
       field('ratePct', 'Rate %', x.ratePct), field('pointsPct', 'Points %', x.pointsPct), field('months', 'Build term (months)', x.months), field('avgDrawPct', 'Avg. outstanding %', 55)].join('');
+  }
+  if (tab === 'build') {
+    const x = { ...L.build };
+    const lot = d.price || 0;
+    const sqft = d.sqft && !isLot(d) ? d.sqft : 2400;
+    const cpsf = x.costPerSf ?? 425;
+    return [field('lot', 'Lot / land price', lot), `<label>Lot already owned?<select name="lotOwned"><option value="0">No – buying it</option><option value="1">Yes</option></select></label>`,
+      field('lotPayoff', 'Existing land loan payoff', 0), field('sqft', 'Home size (sq ft)', sqft), field('costPerSf', 'Build cost per sq ft', cpsf), field('siteWork', 'Site work / utilities', 60000),
+      field('softPct', 'Soft costs % (design, permits, fees)', x.softPct ?? 12), field('contingencyPct', 'Contingency %', x.contingencyPct ?? 10),
+      field('completedValue', 'Value when finished', Math.round(((lot + sqft * cpsf * 1.25) * 1.15) / 1000) * 1000),
+      field('maxLtcPct', 'Max loan-to-cost %', x.maxLtcPct ?? 80), field('maxLtvPct', 'Max loan-to-value %', x.maxLtvPct ?? 80),
+      field('buildRatePct', 'Rate during build %', x.buildRatePct ?? 9), field('buildMonths', 'Build time (months)', x.buildMonths ?? 12),
+      field('permRatePct', 'Mortgage rate after %', x.permRatePct ?? 7), field('amortYears', 'Mortgage term (yrs)', 30),
+      field('taxRatePct', 'Property tax %', 1.2), field('insuranceAnnual', 'Insurance / yr', 3500)].join('');
   }
   const x = { ...L.dscr };
   const units = d.units || 1;
@@ -204,6 +224,18 @@ function analyzerResults(tab, inp) {
       tr('Origination points', money(r.points)), tr('Interest reserve (est.)', money(r.interestReserve)),
       tr('Equity required', money(r.equity), 'big'),
       tr('Projected profit', `<span class="${(r.profit ?? 0) >= 0 ? 'good' : 'bad'}">${money(r.profit)}</span>`, 'big'), tr('Margin on cost', pct(r.marginPct)),
+    ].join('')}</table>` };
+  }
+  if (tab === 'build') {
+    const r = buildToOwn({ ...inp, lotOwned: inp.lotOwned === 1 });
+    return { r, html: `<table>${[
+      tr('Build cost (hard + soft + contingency)', money(r.buildCost)), tr('All-in incl. land', money(r.totalCost)), tr('Build cost / sq ft', r.costPerSfAllIn ? money(r.costPerSfAllIn) : '—'),
+      tr('Construction-to-perm loan', money(r.loan), 'big'), r.limitedByLtv ? tr('Note', '<span class="bad">Capped by appraised value</span>') : '',
+      tr('Interest during build (est.)', money(r.buildInterest)),
+      tr('Cash needed', money(r.cashNeeded), 'big'),
+      tr('Mortgage P&I after move-in', money(r.monthlyPI)), tr('Monthly incl. taxes & insurance', money(r.monthlyAfter)),
+      tr('Equity created by building', `<span class="${(r.equityCreated ?? 0) >= 0 ? 'good' : 'bad'}">${money(r.equityCreated)}</span>`, 'big'),
+      tr('Total equity at move-in', money(r.equityAtCompletion)),
     ].join('')}</table>` };
   }
   const r = dscr(inp);
@@ -258,6 +290,7 @@ function openDeal(id) {
       <button data-tab="flip">Fix &amp; flip loan</button>
       <button data-tab="construction">Construction loan</button>
       <button data-tab="dscr">DSCR / multifamily</button>
+      <button data-tab="build">Build to own</button>
     </div>
     <form class="analyzer" id="analyzer" onsubmit="return false"><div class="inputs"></div><div class="results"></div></form>
     <p class="disclaimer">Estimates only — not a commitment to lend. Terms depend on borrower experience, credit, liquidity, appraisal and lender guidelines.</p>
@@ -268,8 +301,8 @@ function openDeal(id) {
     </div>
     <textarea id="p-notes" rows="2" style="width:100%;margin-top:6px" placeholder="Notes (seller motivation, lender feedback…)">${esc(p.notes || '')}</textarea>
 
-    <h3>Matching buyers (${matches.length})</h3>
-    ${matches.length ? `<ul class="matches">${matches.map((b) => `<li><b>${esc(b.name)}</b> ${esc(b.email || '')} <button class="btn sm" data-email="${esc(b.id)}">Email deal + loan quote</button></li>`).join('')}</ul>` : '<p class="muted">No saved buyers match this deal’s strategy, price, units and area.</p>'}
+    <h3>Matching clients (${matches.length})</h3>
+    ${matches.length ? `<ul class="matches">${matches.map((b) => `<li><b>${esc(b.name)}</b> ${esc(b.email || '')} <button class="btn sm" data-email="${esc(b.id)}">Email deal + loan quote</button></li>`).join('')}</ul>` : '<p class="muted">No saved clients match this deal’s strategy, price, units and area.</p>'}
   `;
   setTab(current.tab);
   const dlg = $('#deal-dialog');
@@ -284,7 +317,7 @@ function setTab(tab) {
 }
 
 function recalc() {
-  const inp = Object.fromEntries([...$('#analyzer').querySelectorAll('input')].map((i) => [i.name, parseFloat(i.value) || 0]));
+  const inp = Object.fromEntries([...$('#analyzer').querySelectorAll('input, select')].map((i) => [i.name, parseFloat(i.value) || 0]));
   const { r, html } = analyzerResults(current.tab, inp);
   current.last = { inp, r };
   $('#analyzer .results').innerHTML = html;
@@ -312,6 +345,7 @@ function emailBuyer(buyerId) {
   if (r && current.tab === 'flip') lines.push('Financing snapshot (fix & flip):', `- Loan: ${money(r.loan)} (${pct(r.ltcPct)} LTC, ${pct(r.ltvArvPct)} of ARV ${money(inp.arv)})`, `- Rate ${inp.ratePct}% / ${inp.pointsPct} pts, ${inp.months} months`, `- Est. cash needed: ${money(r.cashNeeded)}`, `- Projected profit: ${money(r.profit)}`);
   if (r && current.tab === 'construction') lines.push('Financing snapshot (construction):', `- Loan: ${money(r.loan)} (${pct(r.ltcPct)} LTC)`, `- Rate ${inp.ratePct}% / ${inp.pointsPct} pts, ${inp.months} months`, `- Est. equity required: ${money(r.equity)}`);
   if (r && current.tab === 'dscr') lines.push('Financing snapshot (DSCR):', `- Loan: ${money(r.loan)} with ${inp.downPct}% down at ${inp.ratePct}%`, `- P&I ${money(r.monthlyPI)}/mo, DSCR ${r.dscrRent?.toFixed(2)}x`, `- Cap rate ${pct(r.capRatePct, 2)}`);
+  if (r && current.tab === 'build') lines.push('Build-to-own snapshot (construction-to-permanent):', `- All-in cost: ${money(r.totalCost)} (${money(r.costPerSfAllIn)}/sf build)`, `- Loan: ${money(r.loan)}; est. cash needed ${money(r.cashNeeded)}`, `- Payment after move-in: ~${money(r.monthlyAfter)}/mo incl. taxes & insurance`, `- Equity created: ${money(r.equityCreated)}`);
   lines.push('', 'Estimates only, subject to underwriting. Want me to set up a showing and get you pre-qualified?', '', CFG.agentName || '', CFG.companyName || '', CFG.licenseLine || '', [CFG.phone, CFG.email].filter(Boolean).join(' · '));
   const subject = `Deal: ${d.title}${d.address ? ` – ${d.address}` : ''}`;
   location.href = `mailto:${encodeURIComponent(b.email || '')}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(lines.filter((l, i, a) => l !== '' || a[i - 1] !== '').join('\n'))}`;
@@ -327,6 +361,7 @@ function renderBuyers() {
     const m = deals.filter((d) => buyerMatches(b, d));
     return `<div class="card buyer">
       <div class="row-top"><h3>${esc(b.name)}</h3><span class="score">${m.length} matches</span></div>
+      <div><b>${esc(b.goal || 'Goal not set')}</b> · ${esc(b.stage || 'New lead')}${b.source ? ` · <span class="muted">${esc(b.source)}</span>` : ''}</div>
       <div class="muted">${esc([b.email, b.phone].filter(Boolean).join(' · '))}</div>
       <div class="tags" style="margin:6px 0">${(b.cats || []).map((c) => `<span class="tag ${c}">${esc(CATS[c]?.label)}</span>`).join('')}${(b.loans || []).map((l) => `<span class="tag plain">${esc(l)}</span>`).join('')}</div>
       <div class="muted">${[b.minPrice || b.maxPrice ? `${money(b.minPrice || 0)} – ${b.maxPrice ? money(b.maxPrice) : 'any'}` : '', b.minUnits ? `${b.minUnits}+ units` : '', b.areas, b.liquidity ? `Liquidity ${money(b.liquidity)}` : ''].filter(Boolean).map(esc).join(' · ')}</div>
@@ -337,7 +372,7 @@ function renderBuyers() {
         <button class="btn sm" data-del-buyer="${esc(b.id)}">Delete</button>
       </div>
     </div>`;
-  }).join('') : '<div class="empty">Add your buyers and borrowers. Each deal will show which buyers it fits, and you can email them the deal with a loan quote.</div>';
+  }).join('') : '<div class="empty">Add clients (investors, first-time buyers, dream-home builders) or import website intake submissions. Each deal shows which clients it fits, and you can email them the deal with a loan quote.</div>';
 }
 
 function buyerFromForm(form) {
@@ -345,6 +380,8 @@ function buyerFromForm(form) {
   return {
     id: fd.get('id') || crypto.randomUUID(),
     name: fd.get('name').trim(), email: fd.get('email').trim(), phone: fd.get('phone').trim(),
+    goal: fd.get('goal') || '', stage: fd.get('stage') || 'New lead', source: (fd.get('source') || '').trim(),
+    created: buyers.find((x) => x.id === fd.get('id'))?.created || new Date().toISOString(),
     cats: fd.getAll('cat'), loans: fd.getAll('loan'),
     minPrice: +fd.get('minPrice') || null, maxPrice: +fd.get('maxPrice') || null,
     minUnits: +fd.get('minUnits') || null, liquidity: +fd.get('liquidity') || null,
@@ -355,7 +392,7 @@ function buyerFromForm(form) {
 function fillBuyerForm(b) {
   const f = $('#buyer-form');
   f.reset();
-  for (const k of ['id', 'name', 'email', 'phone', 'minPrice', 'maxPrice', 'minUnits', 'liquidity', 'areas', 'notes']) f.elements[k].value = b[k] ?? '';
+  for (const k of ['id', 'name', 'email', 'phone', 'goal', 'stage', 'source', 'minPrice', 'maxPrice', 'minUnits', 'liquidity', 'areas', 'notes']) f.elements[k].value = b[k] ?? '';
   f.querySelectorAll('[name=cat]').forEach((c) => { c.checked = (b.cats || []).includes(c.value); });
   f.querySelectorAll('[name=loan]').forEach((c) => { c.checked = (b.loans || []).includes(c.value); });
   f.elements.name.focus();
@@ -442,7 +479,7 @@ $('#buyer-form').addEventListener('submit', (e) => {
 $('#buyer-list').addEventListener('click', (e) => {
   const ed = e.target.closest('[data-edit-buyer]'); if (ed) fillBuyerForm(buyers.find((b) => b.id === ed.dataset.editBuyer));
   const del = e.target.closest('[data-del-buyer]');
-  if (del && confirm('Delete this buyer?')) { buyers = buyers.filter((b) => b.id !== del.dataset.delBuyer); store.set('buyers', buyers); renderBuyers(); renderDeals(); }
+  if (del && confirm('Delete this client?')) { buyers = buyers.filter((b) => b.id !== del.dataset.delBuyer); store.set('buyers', buyers); renderBuyers(); renderDeals(); }
   const sm = e.target.closest('[data-show-matches]');
   if (sm) {
     const b = buyers.find((x) => x.id === sm.dataset.showMatches);
@@ -453,6 +490,37 @@ $('#buyer-list').addEventListener('click', (e) => {
     document.querySelector('.tabs [data-view=deals]').click();
     renderStats(); renderDeals();
   }
+});
+
+// Website intake -> client. Accepts the JSON a form backend sends, or the
+// "LEAD-DATA: {...}" line at the bottom of an intake email.
+export function leadToClient(text) {
+  const m = String(text).match(/LEAD-DATA:\s*(\{[\s\S]*\})/);
+  const lead = JSON.parse(m ? m[1] : text);
+  const goalCats = {
+    'Fix & flip': ['fix_flip'], 'Multifamily / grow a portfolio': ['multifamily'], 'Coastal property': ['coastal'],
+    'Ground-up development': ['new_construction'], 'Build my dream home': [], 'ADU / house hack': [],
+  };
+  const notes = [
+    lead.message, lead.timeline && `Timeline: ${lead.timeline}`, lead.experience && `Experience: ${lead.experience}`,
+    lead.ownsLot && `Owns land: ${lead.ownsLot}`, lead.dealOfInterest && `Asked about: ${lead.dealOfInterest}`,
+    lead.submittedAt && `Submitted ${lead.submittedAt.slice(0, 10)}`,
+  ].filter(Boolean).join('\n');
+  return {
+    id: crypto.randomUUID(), name: lead.name || 'Website lead', email: lead.email || '', phone: lead.phone || '',
+    goal: lead.goal || '', stage: 'New lead', source: 'Website intake', created: lead.submittedAt || new Date().toISOString(),
+    cats: goalCats[lead.goal] || [], loans: [], minPrice: null, maxPrice: +lead.budget || null, minUnits: null,
+    liquidity: +lead.cash || null, areas: lead.areas || '', notes,
+  };
+}
+
+$('#paste-lead').addEventListener('click', () => {
+  const text = prompt('Paste the website inquiry (the whole email or the LEAD-DATA line):');
+  if (!text) return;
+  try {
+    const c = leadToClient(text);
+    buyers.unshift(c); store.set('buyers', buyers); renderBuyers(); renderDeals(); fillBuyerForm(c);
+  } catch (err) { alert(`Couldn't read that lead: ${err.message}`); }
 });
 
 $('#export-data').addEventListener('click', () => exportFile(`deal-desk-backup-${new Date().toISOString().slice(0, 10)}.json`, { buyers, pipeline, myDeals }));

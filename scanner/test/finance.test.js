@@ -34,3 +34,15 @@ test('dscr', () => {
   assert.ok(r.dscrRent > 1 && r.dscrRent < 1.3);
   assert.ok(r.capRatePct > 4 && r.capRatePct < 7);
 });
+
+test('buildToOwn: dream home on an owned lot', async () => {
+  const { buildToOwn } = await import('../../docs/js/finance.js');
+  const r = buildToOwn({ lot: 600000, lotOwned: true, sqft: 2500, costPerSf: 400, siteWork: 50000, softPct: 12, contingencyPct: 10, completedValue: 2200000 });
+  // hard = 1,050,000; soft 126,000; contingency 105,000 -> build 1,281,000; total 1,881,000
+  assert.equal(r.buildCost, 1281000);
+  assert.equal(r.totalCost, 1881000);
+  assert.equal(r.loan, 1504800); // 80% LTC < 80% LTV (1,760,000)
+  assert.equal(r.equityCreated, 319000);
+  assert.ok(r.cashNeeded < r.buildCost); // land equity reduces cash
+  assert.ok(r.monthlyAfter > r.monthlyPI);
+});

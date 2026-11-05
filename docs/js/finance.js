@@ -97,3 +97,40 @@ export function dscr({
     })(),
   };
 }
+
+/**
+ * Build-to-own (dream home / owner-builder): construction-to-permanent loan.
+ * Shows what it costs to build, cash needed, the payment once it converts to a
+ * mortgage, and the equity created (completed value minus total cost).
+ */
+export function buildToOwn({
+  lot = 0, lotOwned = false, lotPayoff = 0,
+  sqft = 0, costPerSf = 0, siteWork = 0, softPct = 12, contingencyPct = 10,
+  completedValue = 0, maxLtcPct = 80, maxLtvPct = 80,
+  buildRatePct = 9, buildMonths = 12, permRatePct = 7, amortYears = 30,
+  taxRatePct = 1.2, insuranceAnnual = 3000,
+}) {
+  const hard = sqft * costPerSf + siteWork;
+  const soft = hard * (softPct / 100);
+  const contingency = hard * (contingencyPct / 100);
+  const buildCost = hard + soft + contingency;
+  const totalCost = lot + buildCost;
+  const byLtc = totalCost * (maxLtcPct / 100);
+  const byLtv = completedValue * (maxLtvPct / 100);
+  const loan = Math.max(0, completedValue ? Math.min(byLtc, byLtv) : byLtc);
+  // Interest-only during the build on roughly half the build funds outstanding.
+  const buildInterest = Math.max(0, loan - (lotOwned ? 0 : lot)) * 0.5 * (buildRatePct / 100) * (buildMonths / 12)
+    + Math.min(loan, lotOwned ? lotPayoff : lot) * (buildRatePct / 100) * (buildMonths / 12);
+  // Owned land counts as equity: only cash beyond the land value is needed (plus any payoff of an existing land loan).
+  const cashNeeded = (lotOwned ? buildCost + lotPayoff : totalCost) - loan + buildInterest;
+  const pi = amortizedPayment(loan, permRatePct, amortYears);
+  const monthlyAfter = pi + (completedValue * (taxRatePct / 100)) / 12 + insuranceAnnual / 12;
+  return {
+    hard, soft, contingency, buildCost, totalCost, loan, byLtc, byLtv,
+    limitedByLtv: !!completedValue && byLtv < byLtc,
+    buildInterest, cashNeeded, monthlyPI: pi, monthlyAfter,
+    equityCreated: completedValue ? completedValue - totalCost : null,
+    equityAtCompletion: completedValue ? completedValue - loan : null,
+    costPerSfAllIn: sqft ? buildCost / sqft : null,
+  };
+}

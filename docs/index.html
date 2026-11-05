@@ -3,143 +3,176 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>San Diego Deal Desk</title>
+  <title>San Diego Real Estate Partners</title>
+  <meta name="description" content="Buyer representation, loan brokerage and real estate consulting in San Diego County: start investing, fix & flip, build your dream home, ADUs, multifamily and coastal properties.">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="site.css">
   <script src="config.js"></script>
-  <script type="module" src="js/app.js"></script>
+  <script type="module" src="js/site.js"></script>
 </head>
-<body>
-  <header class="top">
-    <div class="brand">
-      <h1 id="brand-name">San Diego Deal Desk</h1>
-      <p class="sub">Fix &amp; flip · New construction · Coastal exemptions · Multifamily — San Diego County</p>
-    </div>
-    <nav class="tabs" role="tablist">
-      <button data-view="deals" class="active">Deals</button>
-      <button data-view="buyers">Buyers</button>
-      <button data-view="pipeline">Pipeline</button>
-      <button data-view="sources">Sources</button>
+<body class="site">
+  <header class="site-nav">
+    <a class="logo" href="#top" data-brand>San Diego Real Estate Partners</a>
+    <nav>
+      <a href="#paths">Services</a>
+      <a href="#process">How it works</a>
+      <a href="#build">Dream home calculator</a>
+      <a href="#deals">Opportunities</a>
+      <a href="#start" class="btn primary">Get started</a>
     </nav>
   </header>
 
-  <main>
-    <section id="view-deals" class="view active">
-      <div class="meta" id="feed-meta">Loading feed…</div>
-      <div class="stats" id="stats"></div>
-      <form class="filters" id="filters" onsubmit="return false">
-        <input type="search" name="q" placeholder="Search address, zip, holder, scope…" aria-label="Search">
-        <select name="kind" aria-label="Lead type">
-          <option value="">All lead types</option>
-          <option value="listing">For-sale listings</option>
-          <option value="project">Permit / project leads</option>
-        </select>
-        <input type="number" name="minPrice" placeholder="Min $" min="0" step="50000" aria-label="Minimum price">
-        <input type="number" name="maxPrice" placeholder="Max $" min="0" step="50000" aria-label="Maximum price">
-        <input type="number" name="minUnits" placeholder="Min units" min="0" aria-label="Minimum units">
-        <select name="sort" aria-label="Sort">
-          <option value="score">Best opportunity</option>
-          <option value="newest">Newest</option>
-          <option value="priceAsc">Price ↑</option>
-          <option value="priceDesc">Price ↓</option>
-          <option value="discount">Biggest discount</option>
-        </select>
-        <label class="chk"><input type="checkbox" name="newOnly"> New only</label>
-        <label class="chk"><input type="checkbox" name="showInactive"> Show off-market</label>
-        <button type="button" id="add-deal-btn" class="btn">+ Add deal</button>
-      </form>
-      <div id="deal-count" class="count"></div>
-      <div id="deal-list" class="grid"></div>
-    </section>
+  <section class="hero" id="top">
+    <div class="wrap">
+      <h1>Invest. Build. Grow equity.</h1>
+      <p class="lead" data-tagline>Your one-stop shop to invest, build and grow equity in San Diego County.</p>
+      <p>One team for the whole journey: strategy, financing, finding the property, building or renovating it, and growing your portfolio, whether it's your first investment or the home you've always wanted to build.</p>
+      <div class="cta">
+        <a href="#start" class="btn primary lg">Book a free strategy session</a>
+        <a href="#build" class="btn lg">Run the dream-home numbers</a>
+      </div>
+    </div>
+  </section>
 
-    <section id="view-buyers" class="view">
-      <div class="split">
-        <form id="buyer-form" class="card form">
-          <h2>Buyer / borrower</h2>
-          <input type="hidden" name="id">
-          <label>Name <input name="name" required></label>
-          <label>Email <input name="email" type="email"></label>
-          <label>Phone <input name="phone"></label>
-          <fieldset>
-            <legend>Strategies</legend>
-            <label class="chk"><input type="checkbox" name="cat" value="fix_flip"> Fix &amp; flip</label>
-            <label class="chk"><input type="checkbox" name="cat" value="new_construction"> New construction</label>
-            <label class="chk"><input type="checkbox" name="cat" value="coastal"> Coastal</label>
-            <label class="chk"><input type="checkbox" name="cat" value="multifamily"> Multifamily</label>
-          </fieldset>
-          <div class="row">
-            <label>Min price <input name="minPrice" type="number" min="0" step="50000"></label>
-            <label>Max price <input name="maxPrice" type="number" min="0" step="50000"></label>
-          </div>
-          <div class="row">
-            <label>Min units <input name="minUnits" type="number" min="0"></label>
-            <label>Cash / liquidity <input name="liquidity" type="number" min="0" step="10000"></label>
-          </div>
-          <label>Areas (zips or cities, comma separated) <input name="areas" placeholder="92109, La Jolla, Oceanside"></label>
-          <fieldset>
-            <legend>Loan needs</legend>
-            <label class="chk"><input type="checkbox" name="loan" value="bridge"> Fix &amp; flip / bridge</label>
-            <label class="chk"><input type="checkbox" name="loan" value="construction"> Construction</label>
-            <label class="chk"><input type="checkbox" name="loan" value="dscr"> DSCR / rental</label>
-            <label class="chk"><input type="checkbox" name="loan" value="conventional"> Conventional / agency</label>
-          </fieldset>
-          <label>Notes <textarea name="notes" rows="3"></textarea></label>
-          <div class="row">
-            <button class="btn primary" type="submit">Save buyer</button>
-            <button class="btn" type="reset">Clear</button>
-          </div>
-        </form>
-        <div>
-          <div class="toolbar">
-            <button class="btn" id="export-data">Export backup</button>
-            <label class="btn">Import backup <input type="file" id="import-data" accept="application/json" hidden></label>
-          </div>
-          <div id="buyer-list"></div>
+  <section id="paths" class="wrap">
+    <h2>Where do you want to start?</h2>
+    <div class="paths">
+      <a class="path" href="#start" data-goal="First investment property">
+        <h3>Start investing</h3>
+        <p>Never owned an investment property? We'll build your plan, show you what you qualify for, and walk you through your first deal step by step.</p>
+      </a>
+      <a class="path" href="#start" data-goal="Build my dream home">
+        <h3>Build your dream home</h3>
+        <p>Find a buildable lot, check what you're allowed to build, line up design, permits and builders, and finance it all with one construction-to-permanent loan. You build equity from day one.</p>
+      </a>
+      <a class="path" href="#start" data-goal="ADU / house hack">
+        <h3>ADUs &amp; house hacking</h3>
+        <p>Add a rental unit, use SB 9 to split a lot, or buy a 2–4 unit and live in one. Let rent help pay your mortgage.</p>
+      </a>
+      <a class="path" href="#start" data-goal="Fix &amp; flip">
+        <h3>Fix &amp; flip</h3>
+        <p>Off-market and under-priced properties, rehab budgets, after-repair values, and fix &amp; flip loans that cover up to 90% of the purchase and the full rehab.</p>
+      </a>
+      <a class="path" href="#start" data-goal="Multifamily / grow a portfolio">
+        <h3>Multifamily &amp; portfolio growth</h3>
+        <p>Apartments and small multifamily, rental (DSCR) loans that qualify on rent instead of your income, cash-out refinances and 1031 exchanges to keep scaling.</p>
+      </a>
+      <a class="path" href="#start" data-goal="Coastal property">
+        <h3>Coastal properties</h3>
+        <p>Building or remodeling near the coast means Coastal Commission rules. We track coastal permits and exemptions so you know what's possible before you buy.</p>
+      </a>
+    </div>
+  </section>
+
+  <section id="process" class="band">
+    <div class="wrap">
+      <h2>How it works</h2>
+      <ol class="steps">
+        <li><b>Strategy session</b><span>Your goals, budget, timeline and experience, turned into a clear plan.</span></li>
+        <li><b>Financing plan</b><span>Pre-qualification and the right loan: conventional, construction-to-perm, fix &amp; flip, DSCR or multifamily.</span></li>
+        <li><b>Find the property</b><span>We represent you as the buyer and use daily scans of listings, permits and off-market leads.</span></li>
+        <li><b>Build or renovate</b><span>Feasibility, zoning and coastal checks, design and permit guidance, builder introductions, construction draws.</span></li>
+        <li><b>Grow equity</b><span>Refinance, pull cash out, 1031 exchange into the next one. We stay with you.</span></li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="services" class="wrap">
+    <h2>One team, every piece</h2>
+    <div class="cols3">
+      <div class="card"><h3>Buyer representation</h3><ul><li>Residential, land and multifamily</li><li>Off-market and permit-based deal sourcing</li><li>Offer strategy and negotiation</li><li>Escrow and due diligence</li></ul></div>
+      <div class="card"><h3>Loan brokerage</h3><ul><li>Purchase and refinance</li><li>Construction and construction-to-permanent</li><li>Fix &amp; flip and bridge</li><li>DSCR rental and multifamily</li></ul></div>
+      <div class="card"><h3>Consulting &amp; education</h3><ul><li>Feasibility and what you can build</li><li>ADU, SB 9 and lot-split analysis</li><li>Coastal permits and exemptions</li><li>Budgets, timelines, builder selection</li></ul></div>
+    </div>
+  </section>
+
+  <section id="build" class="band">
+    <div class="wrap">
+      <h2>Dream home calculator</h2>
+      <p class="muted">See what it could take to build, what you'd pay each month after you move in, and how much equity you'd create by building instead of buying.</p>
+      <form class="analyzer card" id="build-calc" onsubmit="return false">
+        <div class="inputs">
+          <label>Lot price (or value if you own it)<input type="number" name="lot" value="650000" step="10000"></label>
+          <label>Do you already own the lot?<select name="lotOwned"><option value="0">No, I need to buy one</option><option value="1">Yes, I own it</option></select></label>
+          <label>Home size (sq ft)<input type="number" name="sqft" value="2400" step="100"></label>
+          <label>Build cost per sq ft<input type="number" name="costPerSf" value="425" step="25"></label>
+          <label>Site work &amp; utilities<input type="number" name="siteWork" value="60000" step="5000"></label>
+          <label>Value when finished<input type="number" name="completedValue" value="2100000" step="25000"></label>
+          <label>Mortgage rate after move-in %<input type="number" name="permRatePct" value="7" step="0.125"></label>
+          <label>Build time (months)<input type="number" name="buildMonths" value="12"></label>
         </div>
-      </div>
-    </section>
+        <div class="results"></div>
+      </form>
+      <p class="disclaimer">Estimates for planning only, not a loan offer. Build costs vary with design, site and finishes; we'll refine these with real bids and an appraisal.</p>
+    </div>
+  </section>
 
-    <section id="view-pipeline" class="view">
-      <div id="pipeline"></div>
-    </section>
+  <section id="deals" class="wrap">
+    <h2>Current opportunities</h2>
+    <p class="muted">A sample of what our daily scans of San Diego County are finding right now. Ask about any of them, or tell us what you're looking for.</p>
+    <div class="chips" id="deal-chips"></div>
+    <div class="grid" id="featured"></div>
+  </section>
 
-    <section id="view-sources" class="view">
-      <div id="sources"></div>
-    </section>
-  </main>
+  <section id="start" class="band">
+    <div class="wrap narrow">
+      <h2>Get started</h2>
+      <p class="muted">Tell us a little about your goals. We'll reply within one business day to set up your free strategy session.</p>
+      <form id="intake" class="form card">
+        <div class="row">
+          <label>Full name<input name="name" required autocomplete="name"></label>
+          <label>Email<input name="email" type="email" required autocomplete="email"></label>
+        </div>
+        <div class="row">
+          <label>Phone<input name="phone" autocomplete="tel"></label>
+          <label>What's your goal?
+            <select name="goal" required>
+              <option value="">Choose one…</option>
+              <option>First investment property</option>
+              <option>Build my dream home</option>
+              <option>ADU / house hack</option>
+              <option>Fix &amp; flip</option>
+              <option>Multifamily / grow a portfolio</option>
+              <option>Ground-up development</option>
+              <option>Coastal property</option>
+              <option>Not sure yet, I want advice</option>
+            </select>
+          </label>
+        </div>
+        <div class="row">
+          <label>Timeline
+            <select name="timeline"><option>0–3 months</option><option>3–6 months</option><option>6–12 months</option><option>Just exploring</option></select>
+          </label>
+          <label>Experience
+            <select name="experience"><option>First time</option><option>1–2 deals</option><option>3–10 deals</option><option>10+ deals</option></select>
+          </label>
+        </div>
+        <div class="row">
+          <label>Target price / budget<input name="budget" type="number" min="0" step="25000"></label>
+          <label>Cash available to invest<input name="cash" type="number" min="0" step="10000"></label>
+        </div>
+        <div class="row">
+          <label>Areas you like<input name="areas" placeholder="e.g. North Park, Oceanside, 92109"></label>
+          <label>Do you own land already?
+            <select name="ownsLot"><option>No</option><option>Yes</option></select>
+          </label>
+        </div>
+        <label>Anything else?<textarea name="message" rows="3"></textarea></label>
+        <input type="hidden" name="dealOfInterest">
+        <div class="deal-ref muted" id="deal-ref"></div>
+        <label class="chk consent"><input type="checkbox" name="consent" required> I agree to be contacted by email, phone or text about my inquiry.</label>
+        <button class="btn primary lg" type="submit">Send</button>
+        <div id="intake-status" role="status"></div>
+      </form>
+    </div>
+  </section>
 
-  <dialog id="deal-dialog"><div id="deal-detail"></div></dialog>
-  <dialog id="add-dialog">
-    <form id="add-form" method="dialog" class="form">
-      <h2>Add an off-market / manual deal</h2>
-      <p class="muted">Saved in this browser. Use “Export for repo” to share with the scanner feed (data/manual-deals.json).</p>
-      <label>Title <input name="title" required placeholder="Fixer SFR – probate"></label>
-      <label>Address <input name="address"></label>
-      <div class="row">
-        <label>City <input name="city"></label>
-        <label>Zip <input name="zip" pattern="\d{5}"></label>
-      </div>
-      <div class="row">
-        <label>Price <input name="price" type="number" min="0"></label>
-        <label>Units <input name="units" type="number" min="0"></label>
-      </div>
-      <fieldset>
-        <legend>Categories</legend>
-        <label class="chk"><input type="checkbox" name="cat" value="fix_flip"> Fix &amp; flip</label>
-        <label class="chk"><input type="checkbox" name="cat" value="new_construction"> New construction</label>
-        <label class="chk"><input type="checkbox" name="cat" value="coastal"> Coastal</label>
-        <label class="chk"><input type="checkbox" name="cat" value="multifamily"> Multifamily</label>
-        <label class="chk"><input type="checkbox" name="coastalExemption"> CCC exemption / waiver</label>
-      </fieldset>
-      <label>Description <textarea name="description" rows="3"></textarea></label>
-      <label>Link <input name="url" type="url"></label>
-      <div class="row">
-        <button class="btn primary" value="save">Save</button>
-        <button class="btn" value="cancel" formnovalidate>Cancel</button>
-        <button class="btn" type="button" id="export-manual">Export for repo</button>
-      </div>
-    </form>
-  </dialog>
-
-  <footer class="foot" id="footer"></footer>
+  <footer class="site-foot">
+    <div class="wrap">
+      <div data-brand-footer></div>
+      <p class="muted small">Equal Housing Opportunity. Loan estimates are for illustration only and are not a commitment to lend; all loans are subject to credit approval, underwriting, appraisal and program guidelines. Property information comes from public records and third parties and is not guaranteed.</p>
+      <a class="muted small" href="desk.html">Team deal desk</a>
+    </div>
+  </footer>
 </body>
 </html>
