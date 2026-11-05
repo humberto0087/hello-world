@@ -1,0 +1,13 @@
+{
+  "name": "sd-deal-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "San Diego County deal finder: fix & flip, new construction, coastal exemptions and multifamily — for buyer representation and loan brokerage.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "scan": "node scanner/scan.js",
+    "test": "node --test scanner/test/*.test.js",
+    "serve": "python3 -m http.server 8080 --directory docs"
+  }
+}

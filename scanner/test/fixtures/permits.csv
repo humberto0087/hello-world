@@ -1,0 +1,8 @@
+approval_id,project_id,approval_type,approval_category,approval_status,approval_scope,project_title,date_approval_issue,date_approval_create,approval_valuation,approval_permit_holder,address_job,job_apn,lat_job,lng_job
+1001,P1,Combination Building Permit,Building,Issued,"Construct new 2-story single family dwelling with attached garage",Smith NSFD,2026-10-20,2026-09-01,850000,Smith Homes LLC,"1234 Main St, San Diego, CA 92105",4560010100,32.74,-117.08
+1002,P2,Coastal Exemption,Discretionary,Approved,"Exemption from Coastal Development Permit for remodel of existing residence",Beach Remodel,2026-10-25,2026-10-01,0,Jane Doe,"700 Ocean Front Walk, San Diego, CA 92109",4230010100,32.79,-117.25
+1003,P3,Building Permit,Building,Issued,"Install 8kW photovoltaic solar system on roof",Solar,2026-10-28,2026-10-27,30000,SunCo,"55 Elm St, San Diego, CA 92104",,32.75,-117.13
+1004,P4,Building Permit,Building,Issued,"New 3-story apartment building with 24 dwelling units",Park Apts,2026-10-02,2026-06-01,6500000,Park Dev,"900 Park Blvd, San Diego, CA 92101",,32.72,-117.15
+1005,P5,Building Permit,Building,Issued,"Kitchen and bath remodel of existing single family residence, new windows",Remodel,2026-10-15,2026-10-01,120000,Flip Co,"42 Fixer Ln, San Diego, CA 92115",,32.76,-117.06
+1006,P6,Building Permit,Building,Cancelled,"Construct new single family dwelling",Cancelled,2026-10-15,2026-10-01,900000,X,"1 Gone St, San Diego, CA 92115",,,
+1007,P7,Building Permit,Building,Issued,"Construct new single family dwelling",Old,2024-01-15,2024-01-01,900000,X,"1 Old St, San Diego, CA 92115",,,
