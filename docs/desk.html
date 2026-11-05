@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Deal Desk</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="styles.css">
+  <script src="config.js"></script>
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1 id="brand-name">San Diego Deal Desk</h1>
+      <p class="sub">Internal deal desk · Fix &amp; flip · New construction · Coastal exemptions · Multifamily · Lots — San Diego County</p>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button data-view="deals" class="active">Deals</button>
+      <button data-view="buyers">Clients</button>
+      <a class="tablink" href="index.html">Client site ↗</a>
+      <button data-view="pipeline">Pipeline</button>
+      <button data-view="sources">Sources</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="view-deals" class="view active">
+      <div class="meta" id="feed-meta">Loading feed…</div>
+      <div class="stats" id="stats"></div>
+      <form class="filters" id="filters" onsubmit="return false">
+        <input type="search" name="q" placeholder="Search address, zip, holder, scope…" aria-label="Search">
+        <select name="kind" aria-label="Lead type">
+          <option value="">All lead types</option>
+          <option value="listing">For-sale listings</option>
+          <option value="project">Permit / project leads</option>
+          <option value="lot">Lots &amp; land (build-to-own)</option>
+        </select>
+        <input type="number" name="minPrice" placeholder="Min $" min="0" step="50000" aria-label="Minimum price">
+        <input type="number" name="maxPrice" placeholder="Max $" min="0" step="50000" aria-label="Maximum price">
+        <input type="number" name="minUnits" placeholder="Min units" min="0" aria-label="Minimum units">
+        <select name="sort" aria-label="Sort">
+          <option value="score">Best opportunity</option>
+          <option value="newest">Newest</option>
+          <option value="priceAsc">Price ↑</option>
+          <option value="priceDesc">Price ↓</option>
+          <option value="discount">Biggest discount</option>
+        </select>
+        <label class="chk"><input type="checkbox" name="newOnly"> New only</label>
+        <label class="chk"><input type="checkbox" name="showInactive"> Show off-market</label>
+        <button type="button" id="add-deal-btn" class="btn">+ Add deal</button>
+      </form>
+      <div id="deal-count" class="count"></div>
+      <div id="deal-list" class="grid"></div>
+    </section>
+
+    <section id="view-buyers" class="view">
+      <div class="split">
+        <form id="buyer-form" class="card form">
+          <h2>Client</h2>
+          <input type="hidden" name="id">
+          <label>Name <input name="name" required></label>
+          <label>Email <input name="email" type="email"></label>
+          <label>Phone <input name="phone"></label>
+          <div class="row">
+            <label>Goal
+              <select name="goal">
+                <option value="">—</option>
+                <option>First investment property</option>
+                <option>Fix &amp; flip</option>
+                <option>Build my dream home</option>
+                <option>ADU / house hack</option>
+                <option>Multifamily / grow a portfolio</option>
+                <option>Ground-up development</option>
+                <option>Coastal property</option>
+              </select>
+            </label>
+            <label>Stage
+              <select name="stage">
+                <option>New lead</option>
+                <option>Consultation booked</option>
+                <option>Strategy / education</option>
+                <option>Pre-qualified</option>
+                <option>Searching</option>
+                <option>In escrow</option>
+                <option>Building</option>
+                <option>Closed</option>
+                <option>Repeat client</option>
+              </select>
+            </label>
+          </div>
+          <label>Source <input name="source" placeholder="Website intake, referral, open house…"></label>
+          <fieldset>
+            <legend>Strategies</legend>
+            <label class="chk"><input type="checkbox" name="cat" value="fix_flip"> Fix &amp; flip</label>
+            <label class="chk"><input type="checkbox" name="cat" value="new_construction"> New construction</label>
+            <label class="chk"><input type="checkbox" name="cat" value="coastal"> Coastal</label>
+            <label class="chk"><input type="checkbox" name="cat" value="multifamily"> Multifamily</label>
+          </fieldset>
+          <div class="row">
+            <label>Min price <input name="minPrice" type="number" min="0" step="50000"></label>
+            <label>Max price <input name="maxPrice" type="number" min="0" step="50000"></label>
+          </div>
+          <div class="row">
+            <label>Min units <input name="minUnits" type="number" min="0"></label>
+            <label>Cash / liquidity <input name="liquidity" type="number" min="0" step="10000"></label>
+          </div>
+          <label>Areas (zips or cities, comma separated) <input name="areas" placeholder="92109, La Jolla, Oceanside"></label>
+          <fieldset>
+            <legend>Loan needs</legend>
+            <label class="chk"><input type="checkbox" name="loan" value="bridge"> Fix &amp; flip / bridge</label>
+            <label class="chk"><input type="checkbox" name="loan" value="construction"> Construction</label>
+            <label class="chk"><input type="checkbox" name="loan" value="dscr"> DSCR / rental</label>
+            <label class="chk"><input type="checkbox" name="loan" value="conventional"> Conventional / agency</label>
+            <label class="chk"><input type="checkbox" name="loan" value="construction-perm"> Construction-to-perm</label>
+            <label class="chk"><input type="checkbox" name="loan" value="consulting"> Consulting only</label>
+          </fieldset>
+          <label>Notes <textarea name="notes" rows="3"></textarea></label>
+          <div class="row">
+            <button class="btn primary" type="submit">Save client</button>
+            <button class="btn" type="reset">Clear</button>
+          </div>
+        </form>
+        <div>
+          <div class="toolbar">
+            <button class="btn primary" id="paste-lead">Paste website lead</button>
+            <button class="btn" id="export-data">Export backup</button>
+            <label class="btn">Import backup <input type="file" id="import-data" accept="application/json" hidden></label>
+          </div>
+          <div id="buyer-list"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="view-pipeline" class="view">
+      <div id="pipeline"></div>
+    </section>
+
+    <section id="view-sources" class="view">
+      <div id="sources"></div>
+    </section>
+  </main>
+
+  <dialog id="deal-dialog"><div id="deal-detail"></div></dialog>
+  <dialog id="add-dialog">
+    <form id="add-form" method="dialog" class="form">
+      <h2>Add an off-market / manual deal</h2>
+      <p class="muted">Saved in this browser. Use “Export for repo” to share with the scanner feed (data/manual-deals.json).</p>
+      <label>Title <input name="title" required placeholder="Fixer SFR – probate"></label>
+      <label>Address <input name="address"></label>
+      <div class="row">
+        <label>City <input name="city"></label>
+        <label>Zip <input name="zip" pattern="\d{5}"></label>
+      </div>
+      <div class="row">
+        <label>Price <input name="price" type="number" min="0"></label>
+        <label>Units <input name="units" type="number" min="0"></label>
+      </div>
+      <fieldset>
+        <legend>Categories</legend>
+        <label class="chk"><input type="checkbox" name="cat" value="fix_flip"> Fix &amp; flip</label>
+        <label class="chk"><input type="checkbox" name="cat" value="new_construction"> New construction</label>
+        <label class="chk"><input type="checkbox" name="cat" value="coastal"> Coastal</label>
+        <label class="chk"><input type="checkbox" name="cat" value="multifamily"> Multifamily</label>
+        <label class="chk"><input type="checkbox" name="coastalExemption"> CCC exemption / waiver</label>
+      </fieldset>
+      <label>Description <textarea name="description" rows="3"></textarea></label>
+      <label>Link <input name="url" type="url"></label>
+      <div class="row">
+        <button class="btn primary" value="save">Save</button>
+        <button class="btn" value="cancel" formnovalidate>Cancel</button>
+        <button class="btn" type="button" id="export-manual">Export for repo</button>
+      </div>
+    </form>
+  </dialog>
+
+  <footer class="foot" id="footer"></footer>
+</body>
+</html>

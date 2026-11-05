@@ -1,0 +1,59 @@
+{
+  "output": "docs/data/deals.json",
+  "statePath": "docs/data/scan-state.json",
+  "manualDeals": "data/manual-deals.json",
+  "dropAfterDaysUnseen": 45,
+  "sources": {
+    "sdCityPermits": {
+      "enabled": true,
+      "label": "City of San Diego DSD approvals (open data)",
+      "urls": [
+        "https://seshat.datasd.org/development_permits_set2/permits_set2_active_datasd.csv"
+      ],
+      "lookbackDays": 120,
+      "minValuation": 75000,
+      "everyHours": 12
+    },
+    "rentcast": {
+      "enabled": true,
+      "label": "RentCast active sale listings (needs RENTCAST_API_KEY)",
+      "everyHours": 24,
+      "latitude": 32.95,
+      "longitude": -117.0,
+      "radiusMiles": 45,
+      "propertyTypes": [
+        "Multi-Family",
+        "Land",
+        "Single Family",
+        "Townhouse"
+      ],
+      "pageSize": 500,
+      "maxPagesPerType": 2
+    },
+    "manual": {
+      "enabled": true,
+      "label": "Manually added deals (data/manual-deals.json)"
+    }
+  },
+  "coastalZips": [
+    "91932",
+    "92007",
+    "92008",
+    "92010",
+    "92011",
+    "92014",
+    "92024",
+    "92037",
+    "92054",
+    "92056",
+    "92058",
+    "92075",
+    "92101",
+    "92106",
+    "92107",
+    "92109",
+    "92110",
+    "92118",
+    "92130"
+  ]
+}

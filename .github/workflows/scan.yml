@@ -1,0 +1,45 @@
+name: Scan for deals
+
+on:
+  schedule:
+    - cron: '17 */3 * * *'   # every 3 hours; each source also has its own everyHours throttle
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Ignore per-source throttles'
+        type: boolean
+        default: false
+  push:
+    branches: [master]
+    paths: ['scanner/**', 'data/manual-deals.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deal-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm test
+      - name: Scan sources
+        env:
+          RENTCAST_API_KEY: ${{ secrets.RENTCAST_API_KEY }}
+        run: node scanner/scan.js ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '--force' || '' }}
+      - name: Commit updated feed
+        run: |
+          git config user.name "deal-scanner[bot]"
+          git config user.email "deal-scanner@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Update deal feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
