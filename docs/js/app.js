@@ -137,7 +137,7 @@ function renderDeals() {
         ${d.discountToZipPct ? `<span class="${d.discountToZipPct > 0 ? 'good' : ''}">${d.discountToZipPct}% vs zip $/sf</span>` : ''}
         ${d.yearBuilt ? `<span>Built ${d.yearBuilt}</span>` : ''}
         ${d.daysOnMarket != null ? `<span>${d.daysOnMarket} DOM</span>` : ''}
-        ${d.approvalType ? `<span>${esc(d.approvalType)}</span>` : ''}
+        ${d.approvalType ? `<span>${esc(d.approvalType.length > 60 ? `${d.approvalType.slice(0, 57)}…` : d.approvalType)}</span>` : ''}
         ${d.issuedDate ? `<span>Issued ${fmtDate(d.issuedDate)}</span>` : ''}
         <span>${esc(d.sourceLabel || d.source)}</span>
         ${matches ? `<span class="good">${matches} client match${matches > 1 ? 'es' : ''}</span>` : ''}
@@ -261,7 +261,7 @@ function openDeal(id) {
   const matches = buyers.filter((b) => buyerMatches(b, d));
   const facts = [
     ['List price', d.price ? money(d.price) : null], ['Permit valuation', d.valuation ? money(d.valuation) : null],
-    ['Units', d.units], ['Sq ft', d.sqft?.toLocaleString()], ['Lot', d.lotSize ? `${d.lotSize.toLocaleString()} sf` : null],
+    ['Units', d.units], ['Sq ft', d.sqft?.toLocaleString()], ['Stories', d.stories], ['Permits in project', d.approvalCount > 1 ? d.approvalCount : null], ['Lot', d.lotSize ? `${d.lotSize.toLocaleString()} sf` : null],
     ['Year built', d.yearBuilt], ['Beds / baths', d.bedrooms != null ? `${d.bedrooms} / ${d.bathrooms ?? '?'}` : null],
     ['$/sf', d.pricePerSqft ? `$${d.pricePerSqft} (zip median $${d.zipMedianPpsf ?? '?'})` : null],
     ['Days on market', d.daysOnMarket], ['Listed', d.listedDate && fmtDate(d.listedDate)],
@@ -277,6 +277,7 @@ function openDeal(id) {
     </div>
     <div class="kv">${facts.map(([k, v]) => `<div><span>${esc(k)}</span>${esc(v)}</div>`).join('')}</div>
     ${d.description ? `<p>${esc(d.description)}</p>` : ''}
+    ${d.approvals?.length > 1 ? `<details><summary>${d.approvals.length} permits/approvals in this project</summary><ul>${d.approvals.map((a) => `<li>${a.url ? `<a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.type)}</a>` : esc(a.type)} · ${esc(a.status || '')} · ${a.issued ? `issued ${fmtDate(a.issued)}` : 'not yet issued'}${a.valuation ? ` · ${money(a.valuation)}` : ''}</li>`).join('')}</ul></details>` : ''}
     ${d.priceHistory?.length ? `<p class="muted">Price changes: ${d.priceHistory.map((h) => `${esc(h.date)} ${money(h.from)} → ${money(h.to)}`).join('; ')}</p>` : ''}
     ${d.categories.includes('coastal') ? `<p class="muted">Coastal: ${d.coastalExemption ? 'This approval references a Coastal Development Permit exemption/waiver.' : 'Zip is in or near the Coastal Zone.'} Confirm jurisdiction (City LCP vs. Coastal Commission) and exemption status before advising a buyer.</p>` : ''}
     <div class="row-top">
