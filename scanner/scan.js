@@ -65,6 +65,12 @@ async function main() {
     }
   }
 
+  // Permit leads are now one per project (ids start with sdcity:p:). Drop entries in the
+  // older one-per-approval format once the permit source has run successfully.
+  if (ranSources.has('sdCityPermits')) {
+    prevFeed.deals = (prevFeed.deals || []).filter((d) => d.source !== 'sdCityPermits' || d.id.startsWith(sdCityPermits.ID_PREFIX));
+  }
+
   // De-duplicate across sources by id.
   const byId = new Map();
   for (const d of fresh) byId.set(d.id, d);

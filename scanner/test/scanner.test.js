@@ -117,3 +117,31 @@ test('scoreDeal is bounded and rewards recency and coastal exemptions', () => {
   assert.ok(a > b);
   assert.ok(a <= 100 && b >= 0);
 });
+
+test('live City of SD column names: trade permits dropped, approvals grouped per project, coastal by community', async () => {
+  const { groupByProject } = await import('../sources/sdCityPermits.js');
+  const rows = parseCsvToArray(readFileSync(new URL('./fixtures/permits-live-columns.csv', import.meta.url), 'utf8'));
+  const cfg = config.sources.sdCityPermits;
+  const approvals = rows.map((r) => permitRowToDeal(r, cfg, config.coastalZips, NOW)).filter(Boolean);
+  assert.deepEqual(approvals.map((a) => a.approvalId), ['A1', 'A2', 'A4']); // electrical sub-permit dropped
+  assert.equal(approvals[0].lat, 32.7);
+  assert.equal(approvals[0].apn, '4560010100');
+  assert.equal(approvals[0].units, 2);
+
+  const projects = groupByProject(approvals);
+  assert.equal(projects.length, 2);
+  const duplex = projects.find((p) => p.projectId === 'P100');
+  assert.equal(duplex.id, 'sdcity:p:P100');
+  assert.equal(duplex.units, 4); // two duplex buildings
+  assert.equal(duplex.valuation, 1250000);
+  assert.equal(duplex.sqft, 4900);
+  assert.equal(duplex.approvalCount, 2);
+  assert.equal(duplex.approvalType, 'Combination Building Permit ×2');
+  assert.equal(duplex.issuedDate, '2026-10-21');
+  assert.equal(duplex.url, 'https://opendsd.sandiego.gov/Web/Projects/Details/P100');
+  assert.ok(duplex.categories.includes('new_construction') && duplex.categories.includes('multifamily'));
+
+  const beach = projects.find((p) => p.projectId === 'P200');
+  assert.ok(beach.categories.includes('coastal')); // no zip in address; detected from "PACIFIC BEACH"
+  assert.ok(beach.categories.includes('new_construction'));
+});
