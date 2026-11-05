@@ -61,8 +61,8 @@ Clients, pipeline statuses and notes live in your browser (localStorage). Use
 
 ## Setup
 
-1. Merge this branch into `main` (scheduled workflows only run from the default branch).
-2. **Settings → Pages**: deploy from branch `main`, folder `/docs`.
+1. Merge this branch into `master`, the default branch (scheduled workflows only run from the default branch).
+2. **Settings → Pages**: deploy from branch `master`, folder `/docs`.
 3. **Settings → Actions → General → Workflow permissions**: *Read and write* (the scanner commits the feed).
 4. Optional: **Settings → Secrets and variables → Actions** → add `RENTCAST_API_KEY`.
 5. **Actions → Scan for deals → Run workflow** (tick *force*) for the first scan.

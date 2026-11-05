@@ -10,7 +10,7 @@ on:
         type: boolean
         default: false
   push:
-    branches: [main]
+    branches: [master]
     paths: ['scanner/**', 'data/manual-deals.json']
 
 permissions:
