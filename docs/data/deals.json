@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T05:59:46.544Z",
+ "generatedAt": "2026-11-07T13:04:03.576Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-07T05:59:46.544Z",
+   "lastSuccess": "2026-11-07T13:04:03.576Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
