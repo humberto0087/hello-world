@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T00:38:13.383Z",
+ "generatedAt": "2026-11-08T10:25:10.537Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -17,7 +17,7 @@
   "sdCityPermits": {
    "label": "City of San Diego DSD approvals (open data)",
    "enabled": true,
-   "lastSuccess": "2026-11-07T19:26:34.720Z",
+   "lastSuccess": "2026-11-08T10:25:10.537Z",
    "lastCount": 561,
    "lastError": null,
    "notes": [
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-08T00:38:13.383Z",
+   "lastSuccess": "2026-11-08T10:25:10.537Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
@@ -103,7 +103,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 88
@@ -161,7 +161,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 82
@@ -234,7 +234,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 78
@@ -307,7 +307,7 @@
     }
    ],
    "firstSeen": "2026-11-06T16:47:18.879Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 75
@@ -357,7 +357,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 74
@@ -407,7 +407,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 74
@@ -464,7 +464,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 74
@@ -512,7 +512,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 73
@@ -561,7 +561,7 @@
     }
    ],
    "firstSeen": "2026-11-06T16:47:18.879Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 71
@@ -610,7 +610,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 69
@@ -660,7 +660,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 69
@@ -709,7 +709,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 69
@@ -758,7 +758,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 69
@@ -808,7 +808,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 69
@@ -968,7 +968,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 68
@@ -1025,7 +1025,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 68
@@ -1098,7 +1098,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 67
@@ -1203,7 +1203,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1268,7 +1268,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1317,7 +1317,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1366,7 +1366,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1415,7 +1415,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1464,7 +1464,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 66
@@ -1514,7 +1514,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 65
@@ -1572,7 +1572,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 65
@@ -1622,7 +1622,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 64
@@ -1848,7 +1848,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 64
@@ -1897,7 +1897,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 62
@@ -1947,7 +1947,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 62
@@ -1996,80 +1996,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 62
-  },
-  {
-   "id": "sdcity:p:PRJ-1168339",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:4568/Florida",
-   "address": null,
-   "city": "San Diego",
-   "zip": null,
-   "apn": "4451323100",
-   "lat": 32.760381298,
-   "lng": -117.144130119,
-   "categories": [
-    "new_construction",
-    "multifamily"
-   ],
-   "coastalExemption": false,
-   "units": 8,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1168339",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3448408",
-   "valuation": null,
-   "price": null,
-   "approvalType": "Combination Building Permit ×4",
-   "status": "Opened",
-   "description": "For the construction of new detached duplex ADU'S on an existing SFR.BC#4333 — NORTH PARK: Combination building permit for the construction of four new detached duplex structures, consisting of six ADUs and two dwelling units, with associated site improvements to an existing SFR. RM-1-1 (VHFSZ).",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-10-09",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1168339",
-   "approvalCount": 4,
-   "approvals": [
-    {
-     "id": "PMT-3448408",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448408"
-    },
-    {
-     "id": "PMT-3448411",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448411"
-    },
-    {
-     "id": "PMT-3448431",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448431"
-    },
-    {
-     "id": "PMT-3448405",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448405"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 62
@@ -2118,7 +2045,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 61
@@ -2167,7 +2094,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 61
@@ -2216,7 +2143,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 61
@@ -2305,7 +2232,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 61
@@ -2378,7 +2305,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 60
@@ -2427,7 +2354,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 59
@@ -2477,7 +2404,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 59
@@ -2534,7 +2461,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 59
@@ -2599,7 +2526,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 58
@@ -2649,7 +2576,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 58
@@ -2698,7 +2625,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 58
@@ -2810,57 +2737,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 58
-  },
-  {
-   "id": "sdcity:p:PRJ-1168290",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "Rapid Review-Standard-Building Construction:4316/Haines",
-   "address": null,
-   "city": "San Diego",
-   "zip": null,
-   "apn": "4231821900",
-   "lat": 32.796726277,
-   "lng": -117.242081169,
-   "categories": [
-    "multifamily",
-    "fix_flip",
-    "coastal"
-   ],
-   "coastalExemption": false,
-   "units": 2,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1168290",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3448288",
-   "valuation": null,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Opened",
-   "description": "For the  (E) garage conversion to living space consists of (2) bedrooms,(1)  bathroom, utility room & mini split , work to include removal of unpermitted range, The garage is attached to (E) 2-story SFR on a lot with (E) duplex. — PACIFIC BEACH: Combination building permit for the  (E) garage conversion to a living space consists of (2) bedrooms,(1)  bathroom, utility room & mini split , work to include removal of unpermitted range, The garage is attached to (E) 2-story SFR on a lot with (E) duplex.",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-10-09",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1168290",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3448288",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448288"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 58
@@ -2925,7 +2802,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 58
@@ -2982,7 +2859,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3032,7 +2909,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3090,7 +2967,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3147,7 +3024,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3220,7 +3097,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3269,7 +3146,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3327,7 +3204,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3377,7 +3254,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3434,7 +3311,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3491,7 +3368,80 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 57
+  },
+  {
+   "id": "sdcity:p:PRJ-1168339",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:4568/Florida",
+   "address": null,
+   "city": "San Diego",
+   "zip": null,
+   "apn": "4451323100",
+   "lat": 32.760381298,
+   "lng": -117.144130119,
+   "categories": [
+    "new_construction",
+    "multifamily"
+   ],
+   "coastalExemption": false,
+   "units": 8,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1168339",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3448408",
+   "valuation": null,
+   "price": null,
+   "approvalType": "Combination Building Permit ×4",
+   "status": "Opened",
+   "description": "For the construction of new detached duplex ADU'S on an existing SFR.BC#4333 — NORTH PARK: Combination building permit for the construction of four new detached duplex structures, consisting of six ADUs and two dwelling units, with associated site improvements to an existing SFR. RM-1-1 (VHFSZ).",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-10-09",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1168339",
+   "approvalCount": 4,
+   "approvals": [
+    {
+     "id": "PMT-3448408",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448408"
+    },
+    {
+     "id": "PMT-3448411",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448411"
+    },
+    {
+     "id": "PMT-3448431",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448431"
+    },
+    {
+     "id": "PMT-3448405",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448405"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 57
@@ -3556,7 +3506,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 56
@@ -3605,7 +3555,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 56
@@ -3654,7 +3604,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 56
@@ -3703,7 +3653,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 56
@@ -3752,7 +3702,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -3801,7 +3751,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -3850,7 +3800,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -3899,7 +3849,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -3948,7 +3898,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -3997,7 +3947,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 55
@@ -4046,7 +3996,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4102,7 +4052,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4152,7 +4102,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4208,7 +4158,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4257,7 +4207,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4306,7 +4256,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4355,7 +4305,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 54
@@ -4403,7 +4353,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4452,7 +4402,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4502,7 +4452,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4559,7 +4509,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4607,7 +4557,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4664,7 +4614,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4721,7 +4671,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4778,7 +4728,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4828,7 +4778,57 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 53
+  },
+  {
+   "id": "sdcity:p:PRJ-1168290",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "Rapid Review-Standard-Building Construction:4316/Haines",
+   "address": null,
+   "city": "San Diego",
+   "zip": null,
+   "apn": "4231821900",
+   "lat": 32.796726277,
+   "lng": -117.242081169,
+   "categories": [
+    "multifamily",
+    "fix_flip",
+    "coastal"
+   ],
+   "coastalExemption": false,
+   "units": 2,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1168290",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3448288",
+   "valuation": null,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Opened",
+   "description": "For the  (E) garage conversion to living space consists of (2) bedrooms,(1)  bathroom, utility room & mini split , work to include removal of unpermitted range, The garage is attached to (E) 2-story SFR on a lot with (E) duplex. — PACIFIC BEACH: Combination building permit for the  (E) garage conversion to a living space consists of (2) bedrooms,(1)  bathroom, utility room & mini split , work to include removal of unpermitted range, The garage is attached to (E) 2-story SFR on a lot with (E) duplex.",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-10-09",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1168290",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3448288",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448288"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4877,7 +4877,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 53
@@ -4935,7 +4935,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 52
@@ -4984,7 +4984,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 52
@@ -5041,7 +5041,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 52
@@ -5090,7 +5090,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 52
@@ -5139,7 +5139,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5188,7 +5188,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5237,7 +5237,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5286,7 +5286,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5335,7 +5335,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5384,7 +5384,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5440,7 +5440,7 @@
     }
    ],
    "firstSeen": "2026-11-06T16:47:18.879Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5504,7 +5504,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5553,7 +5553,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 51
@@ -5625,7 +5625,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5674,7 +5674,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5722,7 +5722,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5771,7 +5771,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5820,7 +5820,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5869,7 +5869,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5918,7 +5918,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -5967,7 +5967,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6016,7 +6016,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6065,7 +6065,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6114,7 +6114,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6163,7 +6163,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6212,7 +6212,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6261,7 +6261,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6310,7 +6310,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6359,7 +6359,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 50
@@ -6416,7 +6416,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6473,7 +6473,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6522,7 +6522,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6579,7 +6579,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6628,7 +6628,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6685,7 +6685,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6742,7 +6742,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6791,7 +6791,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6840,56 +6840,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 49
-  },
-  {
-   "id": "sdcity:p:PRJ-1149176",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:2477/Avenida De La Playa",
-   "address": "2479 Avenida De La Playa, San Diego, CA",
-   "city": "San Diego",
-   "zip": null,
-   "apn": "3464000500",
-   "lat": 32.8535467,
-   "lng": -117.25016814,
-   "categories": [
-    "fix_flip",
-    "coastal"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1149176",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3396388",
-   "valuation": 962211.36,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Inspection Followup",
-   "description": "For remodel and addition to existing SDU that include 1st floor addition, 2nd story ADU, new concrete patio and new driveway. — LA JOLLA: Combination Building Permit for remodel and addition to existing SDU that include 1st floor addition, 2nd story ADU, new concrete patio and new driveway. (Discretionary project Please see comments section)",
-   "permitHolder": "Carlos Wellman",
-   "issuedDate": "2026-08-10",
-   "createdDate": "2026-01-12",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1149176",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3396388",
-     "type": "Combination Building Permit",
-     "status": "Inspection Followup",
-     "issued": "2026-08-10",
-     "valuation": 962211.36,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3396388"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6938,7 +6889,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -6987,7 +6938,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7044,7 +6995,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7093,7 +7044,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7150,7 +7101,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7199,7 +7150,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7256,7 +7207,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7305,7 +7256,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7362,7 +7313,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7419,7 +7370,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7476,7 +7427,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7525,7 +7476,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7582,7 +7533,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7632,7 +7583,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7681,7 +7632,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7738,7 +7689,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7787,7 +7738,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7844,64 +7795,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 49
-  },
-  {
-   "id": "sdcity:p:PRJ-1164262",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:4620/Del Monte",
-   "address": "4620 Del Monte Av, San Diego, CA 92107",
-   "city": "San Diego",
-   "zip": "92107",
-   "apn": "4484921100",
-   "lat": 32.74056954,
-   "lng": -117.24651019,
-   "categories": [
-    "new_construction",
-    "coastal"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1164262",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3432892",
-   "valuation": 518878.44,
-   "price": null,
-   "approvalType": "Combination Building Permit ×2",
-   "status": "Opened",
-   "description": "**Scope Change (08/21/2026)** For the interior remodel and addition to an existing one-story SFR with (N) rear patio cover an outdoor fireplace, and at-grade deck. BC Code: 4341 — **Scope Change (08/21/2026)** OCEAN BEACH: Combination Building Permit; For the interior remodel and addition to an existing one-story SFR with (N) rear patio cover an outdoor fireplace, and at-grade deck; for the demolition of the existing detached studio and garage to be replaced with a new ADU above proposed workshop and gym. RM-1-1. Ocean Beach Cottage Emerging (Local Register)",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-08-10",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164262",
-   "approvalCount": 2,
-   "approvals": [
-    {
-     "id": "PMT-3438657",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 331340,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3438657"
-    },
-    {
-     "id": "PMT-3432892",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 187538.44,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432892"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -7958,7 +7852,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8015,7 +7909,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8064,7 +7958,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8113,7 +8007,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8170,7 +8064,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8227,7 +8121,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8276,7 +8170,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8333,7 +8227,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8383,7 +8277,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8432,7 +8326,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 49
@@ -8480,7 +8374,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8544,7 +8438,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8609,7 +8503,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8659,7 +8553,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8716,7 +8610,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8766,7 +8660,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8823,7 +8717,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8871,7 +8765,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8921,7 +8815,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -8970,7 +8864,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 48
@@ -9018,7 +8912,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9066,7 +8960,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9114,7 +9008,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9162,7 +9056,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9211,7 +9105,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9260,7 +9154,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 47
@@ -9309,7 +9203,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9373,7 +9267,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9422,7 +9316,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9494,7 +9388,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9550,7 +9444,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9599,7 +9493,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9648,7 +9542,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9697,7 +9591,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9745,7 +9639,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9793,7 +9687,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9849,56 +9743,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 46
-  },
-  {
-   "id": "sdcity:p:PRJ-1167237",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "Standard-Discretionary Project:7650/Mission Valley",
-   "address": null,
-   "city": "San Diego",
-   "zip": null,
-   "apn": "6773900100",
-   "lat": 32.779217467,
-   "lng": -117.155301605,
-   "categories": [
-    "new_construction",
-    "coastal"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1167237",
-   "projectType": "Discretionary Project",
-   "approvalId": "PMT-3448361",
-   "valuation": null,
-   "price": null,
-   "approvalType": "Coastal Development",
-   "status": "Open",
-   "description": "MISSION BEACH (Process 3) Coastal Development Permit to construct a new 3-story, 1,448-square-foot single dwelling unit on a vacant lot located at 812 Portsmouth Ct. (APN:423-592-2200). The 0.03-acre site is in the MBPD-R-N Base Zone, Coastal (Appealable) Overlay Zone within the Mission Valley Community Plan Area. Council District 2.",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-10-09",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1167237",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3448361",
-     "type": "Coastal Development",
-     "status": "Open",
-     "issued": null,
-     "valuation": null,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448361"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9947,7 +9792,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -9995,7 +9840,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -10044,7 +9889,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -10093,7 +9938,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -10149,7 +9994,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 46
@@ -10198,7 +10043,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10247,7 +10092,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10343,7 +10188,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10392,7 +10237,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10441,56 +10286,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 45
-  },
-  {
-   "id": "sdcity:p:PRJ-1164780",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:639/Silver Gate",
-   "address": "639 Silver Gate Av, San Diego, CA 92106",
-   "city": "San Diego",
-   "zip": "92106",
-   "apn": "5322010700",
-   "lat": 32.715683,
-   "lng": -117.243913,
-   "categories": [
-    "fix_flip",
-    "coastal"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1164780",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3432836",
-   "valuation": 184562.36,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Opened",
-   "description": "For addition and remodel of the existing 1-story SFD. Work consists of an existing kitchen remodel and addition, including a new bathroom, an entry addition, a new deck, and a roof over portion of the deck. — PENINSULA: Combination Building permit for addition and remodel of the existing 1-story SFD. Work consists of an existing kitchen remodel and addition, including a new bathroom, an entry addition, a new deck, and a roof over portion of the deck. RS-1-4.",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-08-10",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164780",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3432836",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 184562.36,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432836"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10539,7 +10335,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10596,7 +10392,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10645,7 +10441,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10693,7 +10489,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10742,7 +10538,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10791,7 +10587,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10840,7 +10636,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10889,7 +10685,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10938,7 +10734,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -10987,7 +10783,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11036,7 +10832,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11085,7 +10881,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11134,7 +10930,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11183,7 +10979,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11232,7 +11028,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11281,7 +11077,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11330,7 +11126,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11387,7 +11183,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11436,7 +11232,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11492,7 +11288,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11540,7 +11336,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11589,7 +11385,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11638,7 +11434,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11687,7 +11483,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11744,7 +11540,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11793,7 +11589,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11841,7 +11637,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11890,7 +11686,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11938,7 +11734,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -11987,7 +11783,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12035,7 +11831,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12084,7 +11880,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12132,7 +11928,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12181,7 +11977,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12230,7 +12026,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12279,7 +12075,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12328,7 +12124,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12377,7 +12173,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12434,7 +12230,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12483,7 +12279,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12532,7 +12328,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12581,7 +12377,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12630,7 +12426,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12679,7 +12475,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12728,7 +12524,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12777,7 +12573,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 45
@@ -12834,7 +12630,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -12891,7 +12687,56 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 44
+  },
+  {
+   "id": "sdcity:p:PRJ-1149176",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:2477/Avenida De La Playa",
+   "address": "2479 Avenida De La Playa, San Diego, CA",
+   "city": "San Diego",
+   "zip": null,
+   "apn": "3464000500",
+   "lat": 32.8535467,
+   "lng": -117.25016814,
+   "categories": [
+    "fix_flip",
+    "coastal"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1149176",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3396388",
+   "valuation": 962211.36,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Inspection Followup",
+   "description": "For remodel and addition to existing SDU that include 1st floor addition, 2nd story ADU, new concrete patio and new driveway. — LA JOLLA: Combination Building Permit for remodel and addition to existing SDU that include 1st floor addition, 2nd story ADU, new concrete patio and new driveway. (Discretionary project Please see comments section)",
+   "permitHolder": "Carlos Wellman",
+   "issuedDate": "2026-08-10",
+   "createdDate": "2026-01-12",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1149176",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3396388",
+     "type": "Combination Building Permit",
+     "status": "Inspection Followup",
+     "issued": "2026-08-10",
+     "valuation": 962211.36,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3396388"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -12940,7 +12785,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -12989,7 +12834,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13038,7 +12883,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13087,7 +12932,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13144,7 +12989,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13194,7 +13039,64 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 44
+  },
+  {
+   "id": "sdcity:p:PRJ-1164262",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:4620/Del Monte",
+   "address": "4620 Del Monte Av, San Diego, CA 92107",
+   "city": "San Diego",
+   "zip": "92107",
+   "apn": "4484921100",
+   "lat": 32.74056954,
+   "lng": -117.24651019,
+   "categories": [
+    "new_construction",
+    "coastal"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1164262",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3432892",
+   "valuation": 518878.44,
+   "price": null,
+   "approvalType": "Combination Building Permit ×2",
+   "status": "Opened",
+   "description": "**Scope Change (08/21/2026)** For the interior remodel and addition to an existing one-story SFR with (N) rear patio cover an outdoor fireplace, and at-grade deck. BC Code: 4341 — **Scope Change (08/21/2026)** OCEAN BEACH: Combination Building Permit; For the interior remodel and addition to an existing one-story SFR with (N) rear patio cover an outdoor fireplace, and at-grade deck; for the demolition of the existing detached studio and garage to be replaced with a new ADU above proposed workshop and gym. RM-1-1. Ocean Beach Cottage Emerging (Local Register)",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-08-10",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164262",
+   "approvalCount": 2,
+   "approvals": [
+    {
+     "id": "PMT-3438657",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 331340,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3438657"
+    },
+    {
+     "id": "PMT-3432892",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 187538.44,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432892"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13251,7 +13153,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13300,7 +13202,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13349,7 +13251,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 44
@@ -13397,7 +13299,7 @@
     }
    ],
    "firstSeen": "2026-11-05T23:39:23.425Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 43
@@ -13445,7 +13347,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 43
@@ -13493,7 +13395,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 43
@@ -13541,7 +13443,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 43
@@ -13589,7 +13491,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 43
@@ -13637,7 +13539,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13685,7 +13587,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13733,7 +13635,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13781,7 +13683,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13829,7 +13731,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13885,7 +13787,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13933,7 +13835,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -13981,7 +13883,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14029,7 +13931,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14085,7 +13987,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14133,7 +14035,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14189,7 +14091,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14237,7 +14139,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14286,7 +14188,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14334,7 +14236,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14390,7 +14292,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14438,7 +14340,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14486,7 +14388,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14542,7 +14444,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14590,7 +14492,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14638,7 +14540,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14710,7 +14612,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 42
@@ -14759,7 +14661,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -14808,7 +14710,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -14857,7 +14759,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -14906,7 +14808,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -14955,7 +14857,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15004,7 +14906,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15052,7 +14954,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15101,7 +15003,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15157,7 +15059,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15206,7 +15108,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15255,7 +15157,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15311,7 +15213,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15359,7 +15261,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15439,7 +15341,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15488,7 +15390,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15537,7 +15439,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15593,7 +15495,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15642,7 +15544,56 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 41
+  },
+  {
+   "id": "sdcity:p:PRJ-1167237",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "Standard-Discretionary Project:7650/Mission Valley",
+   "address": null,
+   "city": "San Diego",
+   "zip": null,
+   "apn": "6773900100",
+   "lat": 32.779217467,
+   "lng": -117.155301605,
+   "categories": [
+    "new_construction",
+    "coastal"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1167237",
+   "projectType": "Discretionary Project",
+   "approvalId": "PMT-3448361",
+   "valuation": null,
+   "price": null,
+   "approvalType": "Coastal Development",
+   "status": "Open",
+   "description": "MISSION BEACH (Process 3) Coastal Development Permit to construct a new 3-story, 1,448-square-foot single dwelling unit on a vacant lot located at 812 Portsmouth Ct. (APN:423-592-2200). The 0.03-acre site is in the MBPD-R-N Base Zone, Coastal (Appealable) Overlay Zone within the Mission Valley Community Plan Area. Council District 2.",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-10-09",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1167237",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3448361",
+     "type": "Coastal Development",
+     "status": "Open",
+     "issued": null,
+     "valuation": null,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3448361"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15690,7 +15641,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15739,7 +15690,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15787,7 +15738,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15836,7 +15787,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15885,7 +15836,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15934,7 +15885,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -15982,7 +15933,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -16038,7 +15989,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -16086,7 +16037,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -16135,7 +16086,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 41
@@ -16184,7 +16135,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16233,7 +16184,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16282,7 +16233,56 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 40
+  },
+  {
+   "id": "sdcity:p:PRJ-1164780",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:639/Silver Gate",
+   "address": "639 Silver Gate Av, San Diego, CA 92106",
+   "city": "San Diego",
+   "zip": "92106",
+   "apn": "5322010700",
+   "lat": 32.715683,
+   "lng": -117.243913,
+   "categories": [
+    "fix_flip",
+    "coastal"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1164780",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3432836",
+   "valuation": 184562.36,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Opened",
+   "description": "For addition and remodel of the existing 1-story SFD. Work consists of an existing kitchen remodel and addition, including a new bathroom, an entry addition, a new deck, and a roof over portion of the deck. — PENINSULA: Combination Building permit for addition and remodel of the existing 1-story SFD. Work consists of an existing kitchen remodel and addition, including a new bathroom, an entry addition, a new deck, and a roof over portion of the deck. RS-1-4.",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-08-10",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164780",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3432836",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 184562.36,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432836"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16331,7 +16331,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16380,7 +16380,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16436,7 +16436,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16485,7 +16485,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16534,7 +16534,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16583,7 +16583,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16632,7 +16632,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16689,7 +16689,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16738,7 +16738,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 40
@@ -16786,7 +16786,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 39
@@ -16834,7 +16834,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -16882,7 +16882,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -16930,7 +16930,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -16978,7 +16978,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17026,7 +17026,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17074,7 +17074,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17122,7 +17122,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17170,7 +17170,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17218,7 +17218,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17266,7 +17266,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17314,7 +17314,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17362,7 +17362,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17410,7 +17410,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17458,55 +17458,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 38
-  },
-  {
-   "id": "sdcity:p:PRJ-1163694",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:2608/Broadway",
-   "address": "2608 Broadway, San Diego, CA 92102",
-   "city": "San Diego",
-   "zip": "92102",
-   "apn": "5343022707",
-   "lat": 32.716145,
-   "lng": -117.137933,
-   "categories": [
-    "fix_flip"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1163694",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3428197",
-   "valuation": 81536,
-   "price": null,
-   "approvalType": "Building Permit",
-   "status": "Inspection Followup",
-   "description": "For a proposed fire-damage restoration of an existing MDU at Units #6, #7, #13, & #14. Work to include and is limited to the bathrooms of all units. Repair includes minimal framing replacements, drywall, plumbing, electrical and bathroom fixtures. RM-2-5 — GREATER GOLDEN HILL: Building, Plumbing, Mechanical and Electrical Permits for a proposed fire-damage restoration of an existing MDU at Units #6, #7, #13, & #14. Work to include and is limited to the bathrooms of all units. Repair includes minimal framing replacements, drywall, plumbing, electrical and bathroom fixtures. RM-2-5",
-   "permitHolder": null,
-   "issuedDate": "2026-10-09",
-   "createdDate": "2026-07-16",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1163694",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3428197",
-     "type": "Building Permit",
-     "status": "Inspection Followup",
-     "issued": "2026-10-09",
-     "valuation": 81536,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3428197"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17554,7 +17506,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17602,7 +17554,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 38
@@ -17650,7 +17602,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17698,7 +17650,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17746,7 +17698,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17794,7 +17746,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17842,7 +17794,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17890,7 +17842,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17938,7 +17890,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -17994,63 +17946,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 37
-  },
-  {
-   "id": "sdcity:p:PRJ-1164424",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:4909/Almayo",
-   "address": "4909 Almayo Ct, San Diego, CA 92117",
-   "city": "San Diego",
-   "zip": "92117",
-   "apn": "3615601700",
-   "lat": 32.828514,
-   "lng": -117.185697,
-   "categories": [
-    "fix_flip"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1164424",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3432778",
-   "valuation": 185881.74,
-   "price": null,
-   "approvalType": "Combination Building Permit ×2",
-   "status": "Opened",
-   "description": "To convert an existing attached patio cover into a JADU (425 SF) and convert a portion of the existing patio cover into an existing SFD (121 SF) to an existing 1-story SFD. The work consists of a bathroom and walk-in closet in the existing SFD.CE#0537451. — CLAIREMONT MESA Combination Building Permit to convert an existing detached 2-car garage to an ADU, convert an existing attached patio cover into a JADU, and convert a portion of the existing patio cover into an existing SFD to an existing 1-story SFD. The work consists of a bathroom and walk-in closet in the existing SFD. RS-1-7. CE#0537451",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-08-10",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164424",
-   "approvalCount": 2,
-   "approvals": [
-    {
-     "id": "PMT-3432778",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 90455.82,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432778"
-    },
-    {
-     "id": "PMT-3432791",
-     "type": "Combination Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 95425.92,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432791"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18098,7 +17994,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18146,7 +18042,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18194,7 +18090,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18242,7 +18138,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18290,7 +18186,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18338,7 +18234,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18386,7 +18282,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18434,7 +18330,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18482,7 +18378,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18530,7 +18426,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18578,7 +18474,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18626,7 +18522,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18674,7 +18570,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18722,7 +18618,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18770,7 +18666,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18818,7 +18714,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18866,7 +18762,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18914,7 +18810,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -18962,7 +18858,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19010,7 +18906,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19058,7 +18954,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19114,7 +19010,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19162,7 +19058,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19218,7 +19114,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19266,7 +19162,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19314,55 +19210,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 37
-  },
-  {
-   "id": "sdcity:p:PRJ-1146697",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:4615/Monroe",
-   "address": "4617 Monroe Av, San Diego, CA",
-   "city": "San Diego",
-   "zip": null,
-   "apn": "4656040900",
-   "lat": 32.75877667,
-   "lng": -117.09510475,
-   "categories": [
-    "new_construction"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1146697",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3384344",
-   "valuation": 209075.54,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Inspection Followup",
-   "description": "Addition and remodel of an exiting detached garage into a new 2-story detached ADU. BC CODE 4333. — MID-CITY:KENSINGTON-TALMADGE:  Combination Building Permit for an Addition to an existing SDU.   Scope includes: bedroom addition to primary residence, and  addition and remodel of an exiting detached garage into a new 2-story detached ADU.   RS-1-7 Talmage Park Estates (National Register) Existing Historic Districts:",
-   "permitHolder": "Wolman Construction",
-   "issuedDate": "2026-08-10",
-   "createdDate": "2025-11-03",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1146697",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3384344",
-     "type": "Combination Building Permit",
-     "status": "Inspection Followup",
-     "issued": "2026-08-10",
-     "valuation": 209075.54,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3384344"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19410,7 +19258,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19474,7 +19322,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19522,55 +19370,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 37
-  },
-  {
-   "id": "sdcity:p:PRJ-1157461",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:5137/Derrick",
-   "address": "5135 Derrick Ct, San Diego, CA",
-   "city": "San Diego",
-   "zip": null,
-   "apn": null,
-   "lat": 32.82857469,
-   "lng": -117.18127857,
-   "categories": [
-    "new_construction"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": 1,
-   "sqft": null,
-   "projectId": "PRJ-1157461",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3418212",
-   "valuation": 209202.78,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Inspection Followup",
-   "description": "For new detached 1 Story ADU & garage at an existing 1 Story SDU. BC CODE: 4333 — CLAIREMONT MESA : Combination Building Permit for a proposed detached 1 Story ADU & garage at an existing 1 Story SDU. (Historic Determination per PRJ-1153471 deemed not significant 03/19/2026). RS-1-7, CMHLOZ, VHFSZ",
-   "permitHolder": "Richard Alleshouse",
-   "issuedDate": "2026-08-10",
-   "createdDate": "2026-05-22",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1157461",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3418212",
-     "type": "Combination Building Permit",
-     "status": "Inspection Followup",
-     "issued": "2026-08-10",
-     "valuation": 209202.78,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3418212"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19618,7 +19418,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19666,7 +19466,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19714,7 +19514,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19762,7 +19562,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19810,7 +19610,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19858,7 +19658,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -19906,55 +19706,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 37
-  },
-  {
-   "id": "sdcity:p:PRJ-1111935",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:2558/Roseview",
-   "address": "2560 Roseview Pl, San Diego, CA",
-   "city": "San Diego",
-   "zip": null,
-   "apn": "4765410500",
-   "lat": 32.73257319,
-   "lng": -117.0983215,
-   "categories": [
-    "new_construction"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1111935",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3277656",
-   "valuation": 220672.44,
-   "price": null,
-   "approvalType": "Combination Building Permit",
-   "status": "Issued",
-   "description": "New detached 2-story ADU for an existing SDU. Work to include balcony/covered patio, associated site improvements, and electrical upgrade. BC Code 4333 — MID-CITY:CITY HEIGHTS:  Combination Building Permit for New detached 2-story ADU for an existing SDU. Work to include balcony/covered patio, associated site improvements, and electrical upgrade.",
-   "permitHolder": "Distinct Construction solutions",
-   "issuedDate": "2026-08-10",
-   "createdDate": "2024-03-01",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1111935",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3277656",
-     "type": "Combination Building Permit",
-     "status": "Issued",
-     "issued": "2026-08-10",
-     "valuation": 220672.44,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3277656"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20002,7 +19754,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20050,7 +19802,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20098,7 +19850,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20146,7 +19898,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20194,7 +19946,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20242,7 +19994,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20290,7 +20042,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20338,7 +20090,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20386,7 +20138,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20434,7 +20186,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20482,7 +20234,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20530,7 +20282,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20578,7 +20330,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20626,7 +20378,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20682,7 +20434,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20730,7 +20482,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20778,7 +20530,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 37
@@ -20827,7 +20579,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -20876,7 +20628,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -20924,7 +20676,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -20973,7 +20725,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21022,7 +20774,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21071,7 +20823,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21120,7 +20872,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21168,7 +20920,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21232,7 +20984,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21281,7 +21033,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21329,7 +21081,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21378,7 +21130,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21427,7 +21179,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21476,7 +21228,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21532,7 +21284,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21581,7 +21333,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21630,7 +21382,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21679,7 +21431,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21727,7 +21479,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21776,7 +21528,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21824,7 +21576,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21873,7 +21625,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 36
@@ -21921,7 +21673,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -21969,7 +21721,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22017,7 +21769,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22065,7 +21817,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22113,7 +21865,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22161,7 +21913,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22209,7 +21961,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22257,7 +22009,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22305,7 +22057,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22353,7 +22105,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22401,7 +22153,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22449,7 +22201,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22497,7 +22249,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22545,7 +22297,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22593,7 +22345,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22641,7 +22393,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22689,7 +22441,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22737,7 +22489,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22785,7 +22537,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22833,7 +22585,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22881,7 +22633,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22929,7 +22681,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -22977,7 +22729,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23025,7 +22777,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23073,7 +22825,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23121,7 +22873,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23169,7 +22921,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23217,7 +22969,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23265,7 +23017,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23313,7 +23065,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23361,7 +23113,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23409,7 +23161,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23457,7 +23209,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23505,7 +23257,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23553,7 +23305,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23601,7 +23353,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23649,7 +23401,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23697,7 +23449,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23745,7 +23497,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23793,55 +23545,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
-   "active": true,
-   "isNew": false,
-   "score": 33
-  },
-  {
-   "id": "sdcity:p:PRJ-1164931",
-   "source": "sdCityPermits",
-   "sourceLabel": "City of SD permit",
-   "kind": "project",
-   "title": "General-Standard-Building Construction:4036/Centre",
-   "address": "4036 Centre St, San Diego, CA",
-   "city": "San Diego",
-   "zip": null,
-   "apn": "4454911900",
-   "lat": 32.75145,
-   "lng": -117.147322,
-   "categories": [
-    "multifamily"
-   ],
-   "coastalExemption": false,
-   "units": null,
-   "stories": null,
-   "sqft": null,
-   "projectId": "PRJ-1164931",
-   "projectType": "Building Construction",
-   "approvalId": "PMT-3432725",
-   "valuation": 119288,
-   "price": null,
-   "approvalType": "Building Permit",
-   "status": "Opened",
-   "description": "For an interior tenant improvement in a ground-floor retail space of the existing 5-story mixed-use building. Associated MEP.Associated MEP. — UPTOWN Building Electrical, Mechanical, and Plumbing Permits for an interior tenant improvement in a retail space on the ground floor of the existing 5-story mixed-use building. Associated MEP. RM-4-11.",
-   "permitHolder": null,
-   "issuedDate": null,
-   "createdDate": "2026-08-10",
-   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164931",
-   "approvalCount": 1,
-   "approvals": [
-    {
-     "id": "PMT-3432725",
-     "type": "Building Permit",
-     "status": "Opened",
-     "issued": null,
-     "valuation": 119288,
-     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432725"
-    }
-   ],
-   "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23889,7 +23593,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23937,7 +23641,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -23985,7 +23689,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24033,7 +23737,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24081,7 +23785,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24129,7 +23833,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24177,7 +23881,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24225,7 +23929,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24273,7 +23977,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24321,7 +24025,55 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 33
+  },
+  {
+   "id": "sdcity:p:PRJ-1163694",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:2608/Broadway",
+   "address": "2608 Broadway, San Diego, CA 92102",
+   "city": "San Diego",
+   "zip": "92102",
+   "apn": "5343022707",
+   "lat": 32.716145,
+   "lng": -117.137933,
+   "categories": [
+    "fix_flip"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1163694",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3428197",
+   "valuation": 81536,
+   "price": null,
+   "approvalType": "Building Permit",
+   "status": "Inspection Followup",
+   "description": "For a proposed fire-damage restoration of an existing MDU at Units #6, #7, #13, & #14. Work to include and is limited to the bathrooms of all units. Repair includes minimal framing replacements, drywall, plumbing, electrical and bathroom fixtures. RM-2-5 — GREATER GOLDEN HILL: Building, Plumbing, Mechanical and Electrical Permits for a proposed fire-damage restoration of an existing MDU at Units #6, #7, #13, & #14. Work to include and is limited to the bathrooms of all units. Repair includes minimal framing replacements, drywall, plumbing, electrical and bathroom fixtures. RM-2-5",
+   "permitHolder": null,
+   "issuedDate": "2026-10-09",
+   "createdDate": "2026-07-16",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1163694",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3428197",
+     "type": "Building Permit",
+     "status": "Inspection Followup",
+     "issued": "2026-10-09",
+     "valuation": 81536,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3428197"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24369,7 +24121,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24417,7 +24169,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24465,7 +24217,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24513,7 +24265,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24561,7 +24313,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24609,7 +24361,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24657,7 +24409,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24705,7 +24457,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24753,7 +24505,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24801,7 +24553,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24849,7 +24601,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24897,7 +24649,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24945,7 +24697,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -24993,7 +24745,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -25041,7 +24793,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -25089,7 +24841,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -25137,7 +24889,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -25185,7 +24937,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 33
@@ -25241,7 +24993,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25289,7 +25041,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25337,7 +25089,63 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 32
+  },
+  {
+   "id": "sdcity:p:PRJ-1164424",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:4909/Almayo",
+   "address": "4909 Almayo Ct, San Diego, CA 92117",
+   "city": "San Diego",
+   "zip": "92117",
+   "apn": "3615601700",
+   "lat": 32.828514,
+   "lng": -117.185697,
+   "categories": [
+    "fix_flip"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1164424",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3432778",
+   "valuation": 185881.74,
+   "price": null,
+   "approvalType": "Combination Building Permit ×2",
+   "status": "Opened",
+   "description": "To convert an existing attached patio cover into a JADU (425 SF) and convert a portion of the existing patio cover into an existing SFD (121 SF) to an existing 1-story SFD. The work consists of a bathroom and walk-in closet in the existing SFD.CE#0537451. — CLAIREMONT MESA Combination Building Permit to convert an existing detached 2-car garage to an ADU, convert an existing attached patio cover into a JADU, and convert a portion of the existing patio cover into an existing SFD to an existing 1-story SFD. The work consists of a bathroom and walk-in closet in the existing SFD. RS-1-7. CE#0537451",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-08-10",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164424",
+   "approvalCount": 2,
+   "approvals": [
+    {
+     "id": "PMT-3432778",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 90455.82,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432778"
+    },
+    {
+     "id": "PMT-3432791",
+     "type": "Combination Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 95425.92,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432791"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25385,7 +25193,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25433,7 +25241,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25481,7 +25289,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25529,7 +25337,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25577,7 +25385,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25625,7 +25433,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25673,7 +25481,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25721,7 +25529,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25769,7 +25577,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25817,7 +25625,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25865,7 +25673,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25913,7 +25721,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -25961,7 +25769,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26009,7 +25817,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26057,7 +25865,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26105,7 +25913,55 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 32
+  },
+  {
+   "id": "sdcity:p:PRJ-1146697",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:4615/Monroe",
+   "address": "4617 Monroe Av, San Diego, CA",
+   "city": "San Diego",
+   "zip": null,
+   "apn": "4656040900",
+   "lat": 32.75877667,
+   "lng": -117.09510475,
+   "categories": [
+    "new_construction"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1146697",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3384344",
+   "valuation": 209075.54,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Inspection Followup",
+   "description": "Addition and remodel of an exiting detached garage into a new 2-story detached ADU. BC CODE 4333. — MID-CITY:KENSINGTON-TALMADGE:  Combination Building Permit for an Addition to an existing SDU.   Scope includes: bedroom addition to primary residence, and  addition and remodel of an exiting detached garage into a new 2-story detached ADU.   RS-1-7 Talmage Park Estates (National Register) Existing Historic Districts:",
+   "permitHolder": "Wolman Construction",
+   "issuedDate": "2026-08-10",
+   "createdDate": "2025-11-03",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1146697",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3384344",
+     "type": "Combination Building Permit",
+     "status": "Inspection Followup",
+     "issued": "2026-08-10",
+     "valuation": 209075.54,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3384344"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26153,7 +26009,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26201,7 +26057,55 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 32
+  },
+  {
+   "id": "sdcity:p:PRJ-1157461",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:5137/Derrick",
+   "address": "5135 Derrick Ct, San Diego, CA",
+   "city": "San Diego",
+   "zip": null,
+   "apn": null,
+   "lat": 32.82857469,
+   "lng": -117.18127857,
+   "categories": [
+    "new_construction"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": 1,
+   "sqft": null,
+   "projectId": "PRJ-1157461",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3418212",
+   "valuation": 209202.78,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Inspection Followup",
+   "description": "For new detached 1 Story ADU & garage at an existing 1 Story SDU. BC CODE: 4333 — CLAIREMONT MESA : Combination Building Permit for a proposed detached 1 Story ADU & garage at an existing 1 Story SDU. (Historic Determination per PRJ-1153471 deemed not significant 03/19/2026). RS-1-7, CMHLOZ, VHFSZ",
+   "permitHolder": "Richard Alleshouse",
+   "issuedDate": "2026-08-10",
+   "createdDate": "2026-05-22",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1157461",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3418212",
+     "type": "Combination Building Permit",
+     "status": "Inspection Followup",
+     "issued": "2026-08-10",
+     "valuation": 209202.78,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3418212"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26249,7 +26153,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26305,7 +26209,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26353,7 +26257,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26401,7 +26305,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26449,7 +26353,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26497,7 +26401,55 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 32
+  },
+  {
+   "id": "sdcity:p:PRJ-1111935",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:2558/Roseview",
+   "address": "2560 Roseview Pl, San Diego, CA",
+   "city": "San Diego",
+   "zip": null,
+   "apn": "4765410500",
+   "lat": 32.73257319,
+   "lng": -117.0983215,
+   "categories": [
+    "new_construction"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1111935",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3277656",
+   "valuation": 220672.44,
+   "price": null,
+   "approvalType": "Combination Building Permit",
+   "status": "Issued",
+   "description": "New detached 2-story ADU for an existing SDU. Work to include balcony/covered patio, associated site improvements, and electrical upgrade. BC Code 4333 — MID-CITY:CITY HEIGHTS:  Combination Building Permit for New detached 2-story ADU for an existing SDU. Work to include balcony/covered patio, associated site improvements, and electrical upgrade.",
+   "permitHolder": "Distinct Construction solutions",
+   "issuedDate": "2026-08-10",
+   "createdDate": "2024-03-01",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1111935",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3277656",
+     "type": "Combination Building Permit",
+     "status": "Issued",
+     "issued": "2026-08-10",
+     "valuation": 220672.44,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3277656"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26545,7 +26497,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26601,7 +26553,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26657,7 +26609,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26713,7 +26665,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26761,7 +26713,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26809,7 +26761,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26857,7 +26809,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26905,7 +26857,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 32
@@ -26953,7 +26905,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27001,7 +26953,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27049,7 +27001,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27097,7 +27049,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27145,7 +27097,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27193,7 +27145,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27241,7 +27193,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27289,7 +27241,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27337,7 +27289,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27385,7 +27337,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27433,7 +27385,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27481,7 +27433,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27529,7 +27481,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27577,7 +27529,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27625,7 +27577,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27673,7 +27625,55 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
+   "active": true,
+   "isNew": false,
+   "score": 28
+  },
+  {
+   "id": "sdcity:p:PRJ-1164931",
+   "source": "sdCityPermits",
+   "sourceLabel": "City of SD permit",
+   "kind": "project",
+   "title": "General-Standard-Building Construction:4036/Centre",
+   "address": "4036 Centre St, San Diego, CA",
+   "city": "San Diego",
+   "zip": null,
+   "apn": "4454911900",
+   "lat": 32.75145,
+   "lng": -117.147322,
+   "categories": [
+    "multifamily"
+   ],
+   "coastalExemption": false,
+   "units": null,
+   "stories": null,
+   "sqft": null,
+   "projectId": "PRJ-1164931",
+   "projectType": "Building Construction",
+   "approvalId": "PMT-3432725",
+   "valuation": 119288,
+   "price": null,
+   "approvalType": "Building Permit",
+   "status": "Opened",
+   "description": "For an interior tenant improvement in a ground-floor retail space of the existing 5-story mixed-use building. Associated MEP.Associated MEP. — UPTOWN Building Electrical, Mechanical, and Plumbing Permits for an interior tenant improvement in a retail space on the ground floor of the existing 5-story mixed-use building. Associated MEP. RM-4-11.",
+   "permitHolder": null,
+   "issuedDate": null,
+   "createdDate": "2026-08-10",
+   "url": "https://opendsd.sandiego.gov/Web/Projects/Details/PRJ-1164931",
+   "approvalCount": 1,
+   "approvals": [
+    {
+     "id": "PMT-3432725",
+     "type": "Building Permit",
+     "status": "Opened",
+     "issued": null,
+     "valuation": 119288,
+     "url": "https://opendsd.sandiego.gov/Web/Approvals/Details/PMT-3432725"
+    }
+   ],
+   "firstSeen": "2026-11-05T08:16:05.342Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27721,7 +27721,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27769,7 +27769,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27817,7 +27817,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27865,7 +27865,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27913,7 +27913,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -27961,7 +27961,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28009,7 +28009,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28057,7 +28057,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28105,7 +28105,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28153,7 +28153,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28201,7 +28201,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28249,7 +28249,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28297,7 +28297,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28345,7 +28345,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28393,7 +28393,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28441,7 +28441,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28489,7 +28489,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28537,7 +28537,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28585,7 +28585,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28633,7 +28633,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28681,7 +28681,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28729,7 +28729,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
@@ -28777,7 +28777,7 @@
     }
    ],
    "firstSeen": "2026-11-05T08:16:05.342Z",
-   "lastSeen": "2026-11-07T19:26:34.720Z",
+   "lastSeen": "2026-11-08T10:25:10.537Z",
    "active": true,
    "isNew": false,
    "score": 28
