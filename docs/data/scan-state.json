@@ -1,17 +1,17 @@
 {
   "sources": {
     "sdCityPermits": {
-      "lastSuccess": "2026-11-09T06:33:52.883Z",
-      "lastCount": 561,
+      "lastSuccess": "2026-11-09T19:50:45.909Z",
+      "lastCount": 564,
       "lastError": null,
       "notes": [
-        "https://seshat.datasd.org/development_permits_set2/permits_set2_active_datasd.csv: 547886 rows, 752 matching approvals. Columns: development_id,project_id,project_type,project_status,project_processing_code,project_create_date,project_deemedcomplete_date,project_trust_account_no,project_title,project_scope,job_id,job_drawing_number,gis_address,gis_apn,job_bc_code,job_bc_code_description,gis_latitude,gis_longitude,approval_id,approval_category_code,approval_processing_code,approval_type,approval_status,approval_scope,approval_create_date,approval_issue_date,approval_close_date,approval_expire_date,approval_valuation,approval_du_net_change,approval_stories,approval_floor_area,approval_du_extremely_low,approval_du_very_low,approval_du_low,approval_du_moderate,approval_du_above_moderate,approval_du_future_demo,approval_du_bonus,approval_adu_extremely_low,approval_adu_very_low,approval_adu_low,approval_adu_moderate,approval_adu_above_moderate,approval_adu_bonus,approval_adu_total,approval_jadu_extremely_low,approval_jadu_very_low,approval_jadu_low,approval_jadu_moderate,approval_jadu_above_moderate,approval_jadu_bonus,approval_jadu_total,approval_permit_holder",
-        "561 projects"
+        "https://seshat.datasd.org/development_permits_set2/permits_set2_active_datasd.csv: 548041 rows, 756 matching approvals. Columns: development_id,project_id,project_type,project_status,project_processing_code,project_create_date,project_deemedcomplete_date,project_trust_account_no,project_title,project_scope,job_id,job_drawing_number,gis_address,gis_apn,job_bc_code,job_bc_code_description,gis_latitude,gis_longitude,approval_id,approval_category_code,approval_processing_code,approval_type,approval_status,approval_scope,approval_create_date,approval_issue_date,approval_close_date,approval_expire_date,approval_valuation,approval_du_net_change,approval_stories,approval_floor_area,approval_du_extremely_low,approval_du_very_low,approval_du_low,approval_du_moderate,approval_du_above_moderate,approval_du_future_demo,approval_du_bonus,approval_adu_extremely_low,approval_adu_very_low,approval_adu_low,approval_adu_moderate,approval_adu_above_moderate,approval_adu_bonus,approval_adu_total,approval_jadu_extremely_low,approval_jadu_very_low,approval_jadu_low,approval_jadu_moderate,approval_jadu_above_moderate,approval_jadu_bonus,approval_jadu_total,approval_permit_holder",
+        "564 projects"
       ]
     },
     "rentcast": {},
     "manual": {
-      "lastSuccess": "2026-11-09T06:33:52.883Z",
+      "lastSuccess": "2026-11-09T19:50:45.909Z",
       "lastCount": 0,
       "lastError": null,
       "notes": [
