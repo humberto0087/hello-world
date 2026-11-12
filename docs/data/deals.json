@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T00:45:43.828Z",
+ "generatedAt": "2026-11-12T11:14:59.373Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-12T00:45:43.828Z",
+   "lastSuccess": "2026-11-12T11:14:59.373Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
@@ -1336,7 +1336,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 67
   },
   {
@@ -1435,7 +1435,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 66
   },
   {
@@ -2372,7 +2372,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -3084,7 +3084,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 58
   },
   {
@@ -3134,7 +3134,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 58
   },
   {
@@ -3184,7 +3184,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 58
   },
   {
@@ -3233,7 +3233,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 58
   },
   {
@@ -4198,7 +4198,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 56
   },
   {
@@ -4296,7 +4296,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 56
   },
   {
@@ -4345,7 +4345,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 55
   },
   {
@@ -4444,7 +4444,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 54
   },
   {
@@ -4795,7 +4795,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 54
   },
   {
@@ -4999,7 +4999,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 54
   },
   {
@@ -5153,7 +5153,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -5501,7 +5501,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -5599,7 +5599,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -5648,7 +5648,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -5960,7 +5960,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -6114,7 +6114,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 53
   },
   {
@@ -6741,7 +6741,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 50
   },
   {
@@ -7286,7 +7286,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 50
   },
   {
@@ -8255,7 +8255,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -8524,7 +8524,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -8736,7 +8736,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -8785,7 +8785,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -8989,7 +8989,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -9242,7 +9242,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -9560,7 +9560,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -9658,7 +9658,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -9862,7 +9862,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 49
   },
   {
@@ -9960,7 +9960,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 48
   },
   {
@@ -10642,7 +10642,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 47
   },
   {
@@ -11039,7 +11039,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -11234,7 +11234,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -11331,7 +11331,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -11380,7 +11380,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -11429,7 +11429,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -11848,7 +11848,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -12294,7 +12294,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -12546,7 +12546,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -12693,7 +12693,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -12897,7 +12897,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -12946,7 +12946,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -13093,7 +13093,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -13297,7 +13297,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -13687,7 +13687,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14078,7 +14078,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14127,7 +14127,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14176,7 +14176,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14323,7 +14323,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14624,7 +14624,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14770,7 +14770,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14819,7 +14819,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14966,7 +14966,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -15072,7 +15072,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -15170,7 +15170,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -15946,7 +15946,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -16042,7 +16042,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -16090,7 +16090,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -16186,7 +16186,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16290,7 +16290,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16434,7 +16434,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16482,7 +16482,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16530,7 +16530,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16731,7 +16731,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16827,7 +16827,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -16875,7 +16875,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17075,7 +17075,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17123,7 +17123,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17267,7 +17267,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17507,7 +17507,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17603,7 +17603,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17827,7 +17827,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17924,7 +17924,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18078,7 +18078,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18329,7 +18329,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18378,7 +18378,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18476,7 +18476,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18525,7 +18525,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18720,7 +18720,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18867,7 +18867,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -18916,7 +18916,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19086,7 +19086,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19280,7 +19280,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19336,7 +19336,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19385,7 +19385,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19434,7 +19434,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19628,7 +19628,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -19677,7 +19677,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -20000,7 +20000,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -20347,7 +20347,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -20648,7 +20648,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 40
   },
   {
@@ -21483,7 +21483,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -21627,7 +21627,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -21675,7 +21675,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -21723,7 +21723,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -21963,7 +21963,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22059,7 +22059,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22155,7 +22155,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22251,7 +22251,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22299,7 +22299,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22395,7 +22395,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22443,7 +22443,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
@@ -22635,7 +22635,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -22787,7 +22787,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -22931,7 +22931,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -22979,7 +22979,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23171,7 +23171,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23219,7 +23219,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23363,7 +23363,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23411,7 +23411,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23603,7 +23603,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23747,7 +23747,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23843,7 +23843,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23891,7 +23891,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -23947,7 +23947,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24043,7 +24043,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24187,7 +24187,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24395,7 +24395,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24491,7 +24491,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24587,7 +24587,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24635,7 +24635,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24779,7 +24779,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -24971,7 +24971,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25067,7 +25067,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25115,7 +25115,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25163,7 +25163,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25515,7 +25515,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25611,7 +25611,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25707,7 +25707,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25803,7 +25803,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -25955,7 +25955,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -26147,7 +26147,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -26203,7 +26203,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -26299,7 +26299,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 37
   },
   {
@@ -27095,7 +27095,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 36
   },
   {
@@ -27971,7 +27971,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28019,7 +28019,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28211,7 +28211,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28259,7 +28259,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28451,7 +28451,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28499,7 +28499,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28595,7 +28595,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28643,7 +28643,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28739,7 +28739,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28883,7 +28883,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -28979,7 +28979,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29363,7 +29363,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29555,7 +29555,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29603,7 +29603,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29651,7 +29651,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29747,7 +29747,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -29987,7 +29987,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30035,7 +30035,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30371,7 +30371,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30419,7 +30419,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30467,7 +30467,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30611,7 +30611,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -30995,7 +30995,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31187,7 +31187,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31331,7 +31331,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31475,7 +31475,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31619,7 +31619,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31859,7 +31859,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -31955,7 +31955,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -32003,7 +32003,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -32195,7 +32195,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -33203,7 +33203,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 32
   },
   {
@@ -34779,7 +34779,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 28
   },
   {
@@ -34827,7 +34827,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 28
   },
   {
@@ -36027,7 +36027,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 28
   },
   {
@@ -36411,7 +36411,7 @@
    "firstSeen": "2026-11-12T00:45:43.828Z",
    "lastSeen": "2026-11-12T00:45:43.828Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 28
   },
   {
