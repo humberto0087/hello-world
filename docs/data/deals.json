@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T02:35:11.816Z",
+ "generatedAt": "2026-11-19T11:42:49.620Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-19T02:35:11.816Z",
+   "lastSuccess": "2026-11-19T11:42:49.620Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
@@ -447,7 +447,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 79
   },
   {
@@ -913,7 +913,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 71
   },
   {
@@ -1947,7 +1947,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 66
   },
   {
@@ -2614,7 +2614,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2662,7 +2662,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2710,7 +2710,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2758,7 +2758,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2806,7 +2806,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2854,7 +2854,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2902,7 +2902,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -2950,7 +2950,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -3047,7 +3047,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -3095,7 +3095,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -8517,7 +8517,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 50
   },
   {
@@ -11279,7 +11279,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 47
   },
   {
@@ -16566,7 +16566,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -16710,7 +16710,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17126,7 +17126,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -19637,7 +19637,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 41
   },
   {
@@ -31154,7 +31154,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
@@ -32018,7 +32018,7 @@
    "firstSeen": "2026-11-19T02:35:11.816Z",
    "lastSeen": "2026-11-19T02:35:11.816Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
