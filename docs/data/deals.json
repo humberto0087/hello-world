@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T20:39:11.650Z",
+ "generatedAt": "2026-11-20T02:20:17.158Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-19T20:39:11.650Z",
+   "lastSuccess": "2026-11-20T02:20:17.158Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
@@ -2758,7 +2758,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 63
   },
   {
@@ -5126,7 +5126,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 55
   },
   {
@@ -5359,7 +5359,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 55
   },
   {
@@ -8165,7 +8165,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 50
   },
   {
@@ -11434,7 +11434,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 47
   },
   {
@@ -11578,7 +11578,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 47
   },
   {
@@ -22251,7 +22251,7 @@
    "firstSeen": "2026-11-19T20:39:11.650Z",
    "lastSeen": "2026-11-19T20:39:11.650Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 38
   },
   {
