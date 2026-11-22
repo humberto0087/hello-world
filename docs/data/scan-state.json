@@ -1,7 +1,7 @@
 {
   "sources": {
     "sdCityPermits": {
-      "lastSuccess": "2026-11-21T19:18:06.918Z",
+      "lastSuccess": "2026-11-22T11:27:17.400Z",
       "lastCount": 726,
       "lastError": null,
       "notes": [
@@ -11,7 +11,7 @@
     },
     "rentcast": {},
     "manual": {
-      "lastSuccess": "2026-11-22T01:21:00.032Z",
+      "lastSuccess": "2026-11-22T11:27:17.400Z",
       "lastCount": 0,
       "lastError": null,
       "notes": [
