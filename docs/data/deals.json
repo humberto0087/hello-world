@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T02:14:16.747Z",
+ "generatedAt": "2026-11-24T13:45:45.424Z",
  "region": "San Diego County, CA",
  "categories": {
   "fix_flip": "Fix & Flip",
@@ -32,7 +32,7 @@
   "manual": {
    "label": "Manually added deals (data/manual-deals.json)",
    "enabled": true,
-   "lastSuccess": "2026-11-24T02:14:16.747Z",
+   "lastSuccess": "2026-11-24T13:45:45.424Z",
    "lastCount": 0,
    "lastError": null,
    "notes": [
@@ -781,7 +781,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 71
   },
   {
@@ -830,7 +830,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 71
   },
   {
@@ -1661,7 +1661,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 66
   },
   {
@@ -3538,7 +3538,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 59
   },
   {
@@ -3595,7 +3595,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 59
   },
   {
@@ -5403,7 +5403,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 55
   },
   {
@@ -5550,7 +5550,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 55
   },
   {
@@ -8697,7 +8697,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 50
   },
   {
@@ -11789,7 +11789,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 47
   },
   {
@@ -12880,7 +12880,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 46
   },
   {
@@ -13231,7 +13231,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -14881,7 +14881,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 45
   },
   {
@@ -16594,7 +16594,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -16738,7 +16738,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 43
   },
   {
@@ -17276,7 +17276,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -17524,7 +17524,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 42
   },
   {
@@ -32926,7 +32926,7 @@
    "firstSeen": "2026-11-24T02:14:16.747Z",
    "lastSeen": "2026-11-24T02:14:16.747Z",
    "active": true,
-   "isNew": true,
+   "isNew": false,
    "score": 33
   },
   {
